@@ -4,27 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "9a6d7b65dfe24a65",
+        "id": "58fc897a8cfb2e53",
         "type": "tabs",
         "children": [
           {
-            "id": "68bdb0177a6320a6",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "3aa1ea3782e80e19",
+            "id": "ac32a33a917dfb7a",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +137,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3aa1ea3782e80e19",
+  "active": "ac32a33a917dfb7a",
   "lastOpenFiles": [
     "_daily/2022-12-07.md",
     "readme.md",
