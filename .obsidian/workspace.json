@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "58fc897a8cfb2e53",
+        "id": "a66b9188a6aaaa62",
         "type": "tabs",
         "children": [
           {
-            "id": "aa1432c9e2099cd1",
+            "id": "409608c7bdf2a158",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_articles/library/Estrogenic Avoidance Plans.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_articles/library/Estrogenic Avoidance Plans.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_articles/library/Estrogenic Avoidance Plans.pdf"
+              }
             }
           },
           {
@@ -139,15 +143,15 @@
   },
   "active": "e509f202f4abd033",
   "lastOpenFiles": [
-    "images/water.png",
-    "images/urbit-sigils.png",
-    "images/steel-nobg.png",
-    "images/Screen Shot 2022-03-03 at 8.04.47 am.png",
-    "images/roman-room.jpg",
-    "images/red-writing2.png",
-    "images/lukasa.jpg",
-    "images/korean-chicken-soup.jpg",
-    "images/IMG_4189.JPG",
-    "images/IMG_4186.JPG"
+    "_articles/library/buildingTheMemexSixtyYearsLaterTrendsAndDirectionsInPe.pdf",
+    "_articles/library/Parascientific_Research_Council_Major_Thoughts.pdf",
+    "_articles/library/Radical America, Volume 4, Number 1 (January, 1970)_ Surrealism in the Service of Revolution.pdf",
+    "_articles/library/Woke.pdf",
+    "_articles/library/Utopian Plagiarism, Hypertextuality, and Electronic Cultural Production.pdf",
+    "_articles/library/The Vitruvian Man of Leonardo da Vinci as a Representation of an Operational Approach to Knowledge.pdf",
+    "_articles/library/The Art of the Grease The G Manifesto.pdf",
+    "_articles/library/Techniques of Astral Combat.pdf",
+    "_articles/library/Julian Dibbell » A Rape in Cyberspace.pdf",
+    "index.md"
   ]
 }
