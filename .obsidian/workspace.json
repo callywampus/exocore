@@ -81,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_articles/library/Estrogenic Avoidance Plans.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_articles/library/Estrogenic Avoidance Plans.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_articles/library/Estrogenic Avoidance Plans.pdf"
-              }
+              "state": {}
             }
           },
           {
@@ -141,8 +137,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e509f202f4abd033",
+  "active": "409608c7bdf2a158",
   "lastOpenFiles": [
+    "_articles/library/Estrogenic Avoidance Plans.pdf",
     "_articles/library/buildingTheMemexSixtyYearsLaterTrendsAndDirectionsInPe.pdf",
     "_articles/library/Parascientific_Research_Council_Major_Thoughts.pdf",
     "_articles/library/Radical America, Volume 4, Number 1 (January, 1970)_ Surrealism in the Service of Revolution.pdf",
@@ -151,7 +148,6 @@
     "_articles/library/The Vitruvian Man of Leonardo da Vinci as a Representation of an Operational Approach to Knowledge.pdf",
     "_articles/library/The Art of the Grease The G Manifesto.pdf",
     "_articles/library/Techniques of Astral Combat.pdf",
-    "_articles/library/Julian Dibbell » A Rape in Cyberspace.pdf",
-    "index.md"
+    "_articles/library/Julian Dibbell » A Rape in Cyberspace.pdf"
   ]
 }
