@@ -61,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -137,7 +138,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e509f202f4abd033",
+  "active": "cf91471a0053b065",
   "lastOpenFiles": [
     "_daily/2022-12-09.md",
     "exocore/_templates/_wiki.md",
