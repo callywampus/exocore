@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "97d89584907fd1f7",
+        "id": "a9c9aa395237b028",
         "type": "tabs",
         "children": [
           {
-            "id": "7bd689399d0744f0",
+            "id": "6bd7c431eeb3bfb6",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "_site/images/nu-frontier.jpg"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_site/images/nu-frontier.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_site/images/nu-frontier.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_site/images/nu-frontier.jpg"
-              }
+              "state": {}
             }
           },
           {
@@ -143,17 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7bd689399d0744f0",
+  "active": "e509f202f4abd033",
   "lastOpenFiles": [
-    "_site/images/red-writing2.png",
-    "_site/images/korean-chicken-soup.jpg",
-    "_site/images/IMG_4106.JPG",
-    "_site/images/IMG_3869.JPG",
-    "_site/images/guilded_image_08c671f803737fb4add252910ada0f7a.png",
-    "_site/images/grid.png",
-    "_site/images/girl-online.png",
-    "_site/images/FNWz62JUUAEJZ3M.jpg",
-    "_site/images/FNWx1OZXoAMi69H.jpg",
-    "_site/images/FMz4mIWXEAMKws5.jpg"
+    "_daily/2022-12-09.md",
+    "exocore/_templates/_wiki.md",
+    "exocore/_templates/_scrapbook.md",
+    "exocore/_templates/_journal.md",
+    "exocore/_templates/_daily.md",
+    "exocore/_templates/_article.md",
+    "assets/favicon/favicon-32x32.png",
+    "assets/favicon/favicon-16x16.png",
+    "assets/favicon/apple-touch-icon.png",
+    "assets/attachments/Pasted image 20220905145417.png"
   ]
 }
