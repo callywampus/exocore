@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "read",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -137,17 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6bd7c431eeb3bfb6",
+  "active": "e509f202f4abd033",
   "lastOpenFiles": [
-    "index.md",
+    "_site/readme.md",
     "readme.md",
+    "index.md",
     "_daily/2022-12-09.md",
     "exocore/_templates/_wiki.md",
     "exocore/_templates/_scrapbook.md",
     "exocore/_templates/_journal.md",
     "exocore/_templates/_daily.md",
     "exocore/_templates/_article.md",
-    "assets/favicon/favicon-32x32.png",
-    "assets/favicon/favicon-16x16.png"
+    "assets/favicon/favicon-32x32.png"
   ]
 }
