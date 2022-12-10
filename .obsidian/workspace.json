@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a9c9aa395237b028",
+        "id": "32cf93b47042417d",
         "type": "tabs",
         "children": [
           {
-            "id": "6bd7c431eeb3bfb6",
+            "id": "2008780ef26a9b4d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "webring",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,8 +146,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6bd7c431eeb3bfb6",
+  "active": "2008780ef26a9b4d",
   "lastOpenFiles": [
+    "ring.md",
     "_site/readme.md",
     "readme.md",
     "index.md",
@@ -156,7 +157,6 @@
     "exocore/_templates/_scrapbook.md",
     "exocore/_templates/_journal.md",
     "exocore/_templates/_daily.md",
-    "exocore/_templates/_article.md",
-    "assets/favicon/favicon-32x32.png"
+    "exocore/_templates/_article.md"
   ]
 }
