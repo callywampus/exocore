@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "43cad353a702d714",
+        "id": "f3c9737a12131eac",
         "type": "tabs",
         "children": [
           {
-            "id": "f96a98433466c128",
+            "id": "aa94a980033b9316",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -65,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296,
-    "collapsed": true
+    "width": 296
   },
   "right": {
     "id": "fa5c2b51a2ba60c1",
@@ -135,8 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,11 +147,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f96a98433466c128",
+  "active": "e509f202f4abd033",
   "lastOpenFiles": [
-    "_articles/Knowledge Index 1.0.md",
-    "_journal/2023-04 Cookware.md",
+    "_articles/Knowledge Index 1.0 1.md",
     "_daily/2023-04-09.md",
+    "Untitled.canvas",
+    "_site/articles/Knowledge Index 1.0.md",
+    "_journal/2023-04 Cookware.md",
     "_daily/2023-04-02.md",
     "_daily/2023-02-25.md",
     "ring.md",
