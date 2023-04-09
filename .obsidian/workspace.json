@@ -8,27 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0d5125742f4dcd20",
+            "id": "017773a13ca401a5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ring.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "c41150c4db64e774",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_wiki/7fc502.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -97,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ring.md"
-              }
+              "state": {}
             }
           },
           {
@@ -150,12 +130,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,14 +147,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0d5125742f4dcd20",
+  "active": "017773a13ca401a5",
   "lastOpenFiles": [
-    "_wiki/7fc502.md",
+    "_articles/Cookware.md",
+    "_wiki/Archive Network.md",
+    "_wiki/Health + Lifestyle.md",
+    "_wiki/Web1 Nostalgia.md",
+    "_wiki/Art.md",
+    "_articles/Knowledge Index 1.0.md",
+    "_wiki/Longform.md",
+    "_wiki/Tests.md",
+    "_wiki/Forums.md",
+    "_wiki/CyberSovereignty Toolkit.md",
+    "_wiki/Cryptocurrency.md",
+    "_journal/Aretê.md",
+    "_wiki/Metaphysics + Cosmology.md",
+    "_wiki/Lost History.md",
+    "_wiki/Nutrition.md",
+    "_wiki/Fitness + Performance.md",
     "ring.md",
     "_site/articles/Cookware.md",
-    "_articles/Cookware.md",
     "_site/articles/Knowledge Index 1.0.md",
-    "_articles/Knowledge Index 1.0.md",
     "_articles/Knowledge Index 1.0 1.md",
     "_daily/2023-04-09.md",
     "Untitled.canvas",
@@ -183,12 +175,6 @@
     "_daily/2023-02-25.md",
     "_site/readme.md",
     "readme.md",
-    "index.md",
-    "_daily/2022-12-09.md",
-    "exocore/_templates/_wiki.md",
-    "exocore/_templates/_scrapbook.md",
-    "exocore/_templates/_journal.md",
-    "exocore/_templates/_daily.md",
-    "exocore/_templates/_article.md"
+    "index.md"
   ]
 }
