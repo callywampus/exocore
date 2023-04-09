@@ -30,9 +30,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "f61033976a1445cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_site/articles/Cookware.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_articles/Cookware.md",
+                "file": "_site/articles/Cookware.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_articles/Cookware.md",
+                "file": "_site/articles/Cookware.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_articles/Cookware.md"
+                "file": "_site/articles/Cookware.md"
               }
             }
           },
@@ -168,14 +180,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "87e157b0bcf1dc1f",
+  "active": "f61033976a1445cb",
   "lastOpenFiles": [
+    "_articles/Cookware.md",
+    "_site/articles/Cookware.md",
     "_site/articles/Knowledge Index 1.0.md",
     "_articles/Knowledge Index 1.0.md",
     "_articles/Knowledge Index 1.0 1.md",
     "_daily/2023-04-09.md",
     "Untitled.canvas",
-    "_articles/Cookware.md",
     "_daily/2023-04-02.md",
     "_daily/2023-02-25.md",
     "ring.md",
