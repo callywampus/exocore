@@ -5,7 +5,7 @@ date: 2023-04-09
 tags: nutrition
 ---
 
-#  2023-04: Cookware
+# Cookware
 Probably the safest cookware isn't Stainless Steel- it's enameled cast iron. Enameled Cast Iron is perfectly safe as long as the interior of the dish is white - the lack of color very likely indicating a lack of lead in the enamal (colored enamels more often have lead). Le Creuset makes a model but it's super expensive. The Lodge makes one that's nearly as good at 1/6 the price. [http://www.amazon.com/Lodge-EC6D43-Enam ... ql_qh_dp_t](http://www.amazon.com/Lodge-EC6D43-Enameled-Island-6-Quart/dp/B000N501BK/ref=cm_cd_ql_qh_dp_t)  
 
 Keep in mind it is probably a fraction of the price for a reason.
