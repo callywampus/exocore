@@ -6,6 +6,7 @@ tags:
 ---
 
 # Lost History
+- [Comprehensive Timeline of Lost History](http://www.jrmooneyham.com/signposts-timeline-perspectives-on-the-past.html)
 -   [Plato's Atlantis](https://phoenicia.org/atlantisplato.html)
 -   [The Missing Diary Of Admiral Richard E. Byrd](https://the-eye.eu/public/concen.org/Historic%20Films%20Arctic%20Antarctic%20Admiral%20Byrd%20Operation%20Highjump/ebooks/The%20Missing%20Diary%20of%20Admiral%20Richard%20E%20Byrd.pdf)
 -   [Expanding Earth Theory](https://twitter.com/DoormanForCats/status/1427441098729824264)
