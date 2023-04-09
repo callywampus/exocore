@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "f3c9737a12131eac",
+        "id": "e3a709b9d7e6d7d6",
         "type": "tabs",
         "children": [
           {
-            "id": "aa94a980033b9316",
+            "id": "0d5125742f4dcd20",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_site/articles/Knowledge Index 1.0.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "87e157b0bcf1dc1f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_articles/Cookware.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "f61033976a1445cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_site/articles/Cookware.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,7 +151,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f61033976a1445cb",
+  "active": "e509f202f4abd033",
   "lastOpenFiles": [
     "_articles/Cookware.md",
     "_site/articles/Cookware.md",
