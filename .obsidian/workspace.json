@@ -11,8 +11,24 @@
             "id": "0d5125742f4dcd20",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "ring.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "c41150c4db64e774",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_wiki/7fc502.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -81,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_site/articles/Cookware.md",
+                "file": "ring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_site/articles/Cookware.md",
+                "file": "ring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_site/articles/Cookware.md"
+                "file": "ring.md"
               }
             }
           },
@@ -138,7 +154,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -151,10 +168,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e509f202f4abd033",
+  "active": "0d5125742f4dcd20",
   "lastOpenFiles": [
-    "_articles/Cookware.md",
+    "_wiki/7fc502.md",
+    "ring.md",
     "_site/articles/Cookware.md",
+    "_articles/Cookware.md",
     "_site/articles/Knowledge Index 1.0.md",
     "_articles/Knowledge Index 1.0.md",
     "_articles/Knowledge Index 1.0 1.md",
@@ -162,7 +181,6 @@
     "Untitled.canvas",
     "_daily/2023-04-02.md",
     "_daily/2023-02-25.md",
-    "ring.md",
     "_site/readme.md",
     "readme.md",
     "index.md",

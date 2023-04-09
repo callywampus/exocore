@@ -11,6 +11,8 @@
     "styles.scss",
     "exocore/_includes",
     "exocore/_layouts",
-    "exocore/_plugins"
+    "exocore/_plugins",
+    "_site/articles/Knowledge Index 1.0.md",
+    "_site/articles/Cookware.md"
   ]
 }
