@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_wiki/Lost History.md",
+                "file": "_site/articles/Cookware.md",
                 "mode": "source",
                 "source": true
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#nutrition",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_wiki/Lost History.md",
+                "file": "_site/articles/Cookware.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_wiki/Lost History.md",
+                "file": "_site/articles/Cookware.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_wiki/Lost History.md"
+                "file": "_site/articles/Cookware.md"
               }
             }
           },
@@ -158,6 +159,8 @@
   "active": "017773a13ca401a5",
   "lastOpenFiles": [
     "_articles/Cookware.md",
+    "_site/articles/Cookware.md",
+    "_wiki/Lost History.md",
     "_wiki/Archive Network.md",
     "_wiki/Health + Lifestyle.md",
     "_wiki/Web1 Nostalgia.md",
@@ -170,11 +173,9 @@
     "_wiki/Cryptocurrency.md",
     "_journal/Aretê.md",
     "_wiki/Metaphysics + Cosmology.md",
-    "_wiki/Lost History.md",
     "_wiki/Nutrition.md",
     "_wiki/Fitness + Performance.md",
     "ring.md",
-    "_site/articles/Cookware.md",
     "_site/articles/Knowledge Index 1.0.md",
     "_articles/Knowledge Index 1.0 1.md",
     "_daily/2023-04-09.md",
