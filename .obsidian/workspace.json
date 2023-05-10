@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e3a709b9d7e6d7d6",
+        "id": "a4adada377eea724",
         "type": "tabs",
         "children": [
           {
-            "id": "017773a13ca401a5",
+            "id": "0824525fabf50441",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_site/articles/Cookware.md",
+                "file": "_zettles/beat driving.md",
                 "mode": "source",
                 "source": true
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#nutrition",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_site/articles/Cookware.md",
+                "file": "_zettles/beat driving.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_site/articles/Cookware.md",
+                "file": "_zettles/beat driving.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_site/articles/Cookware.md"
+                "file": "_zettles/beat driving.md"
               }
             }
           },
@@ -139,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -156,10 +155,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "017773a13ca401a5",
+  "active": "0824525fabf50441",
   "lastOpenFiles": [
-    "_articles/Cookware.md",
+    "_zettles/beat driving.md",
+    "_zettles/2023-05-10.md",
+    "Blood test.md",
+    "GE quotes.md",
+    "_zettles/Untitled.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "Peaty macros.md",
+    "Untitled.md",
+    "_zettles/knowledge is the opposite of truth.md",
     "_site/articles/Cookware.md",
+    "_articles/Cookware.md",
     "_wiki/Lost History.md",
     "_wiki/Archive Network.md",
     "_wiki/Health + Lifestyle.md",
@@ -174,16 +183,6 @@
     "_journal/Aretê.md",
     "_wiki/Metaphysics + Cosmology.md",
     "_wiki/Nutrition.md",
-    "_wiki/Fitness + Performance.md",
-    "ring.md",
-    "_site/articles/Knowledge Index 1.0.md",
-    "_articles/Knowledge Index 1.0 1.md",
-    "_daily/2023-04-09.md",
-    "Untitled.canvas",
-    "_daily/2023-04-02.md",
-    "_daily/2023-02-25.md",
-    "_site/readme.md",
-    "readme.md",
-    "index.md"
+    "Untitled.canvas"
   ]
 }

@@ -1,0 +1,1 @@
+Temp and pulse upon waking + in afternoon at least, more throughout day if you want more data
