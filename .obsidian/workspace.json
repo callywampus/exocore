@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_zettles/beat driving.md",
+                "file": "_zettles/anti stress tools.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_zettles/beat driving.md",
+                "file": "_zettles/anti stress tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_zettles/beat driving.md",
+                "file": "_zettles/anti stress tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_zettles/beat driving.md"
+                "file": "_zettles/anti stress tools.md"
               }
             }
           },
@@ -157,16 +157,19 @@
   },
   "active": "0824525fabf50441",
   "lastOpenFiles": [
-    "_zettles/beat driving.md",
-    "_zettles/2023-05-10.md",
-    "Blood test.md",
-    "GE quotes.md",
+    "_zettles/Peaty macros.md",
     "_zettles/Untitled.md",
-    "Untitled 2.md",
-    "Untitled 1.md",
-    "Peaty macros.md",
-    "Untitled.md",
+    "_zettles/Untitled 1.md",
+    "_zettles/Untitled 1 1.md",
+    "_zettles/GE quotes.md",
+    "_zettles/Blood test.md",
+    "_zettles/anti stress tools.md",
+    "ring.md",
+    "_zettles/2023-05-10.md",
+    "_zettles/beat driving.md",
     "_zettles/knowledge is the opposite of truth.md",
+    "_zettles/Chicken necks for thyroid.md",
+    "Untitled.canvas",
     "_site/articles/Cookware.md",
     "_articles/Cookware.md",
     "_wiki/Lost History.md",
@@ -180,9 +183,6 @@
     "_wiki/Forums.md",
     "_wiki/CyberSovereignty Toolkit.md",
     "_wiki/Cryptocurrency.md",
-    "_journal/Aretê.md",
-    "_wiki/Metaphysics + Cosmology.md",
-    "_wiki/Nutrition.md",
-    "Untitled.canvas"
+    "_journal/Aretê.md"
   ]
 }

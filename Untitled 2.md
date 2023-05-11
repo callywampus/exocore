@@ -1,1 +1,0 @@
-Chicken necks for thyroid

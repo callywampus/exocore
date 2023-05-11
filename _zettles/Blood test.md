@@ -1,3 +1,4 @@
+# Blood test
 Cortisol - AM + PM or saliva + urine
 Prolactin - under 10 ideal
 Androgens
