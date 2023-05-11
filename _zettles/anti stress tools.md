@@ -26,5 +26,7 @@ Testosterone
 ## Pharmacutecals
 Cypro
 Famo
+propanolol
+ - not good long term
 
 ## Antibiotics
