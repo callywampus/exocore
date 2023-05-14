@@ -30,9 +30,33 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "c2e0676e5b350cdb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_zettles/B vitamins.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e5b73226dd972854",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_zettles/Excipients.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_zettles/anti stress tools.md",
+                "file": "_zettles/Excipients.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_zettles/anti stress tools.md",
+                "file": "_zettles/Excipients.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_zettles/anti stress tools.md"
+                "file": "_zettles/Excipients.md"
               }
             }
           },
@@ -168,16 +192,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c3419eeca4a26f51",
+  "active": "e5b73226dd972854",
   "lastOpenFiles": [
-    "_zettles/Magnesium.md",
+    "_zettles/B vitamins.md",
+    "_zettles/Excipients.md",
+    "_zettles/Blood test.md",
     "_zettles/anti stress tools.md",
+    "_zettles/Magnesium.md",
     "_zettles/Peaty macros.md",
     "_zettles/Untitled.md",
     "_zettles/Untitled 1.md",
     "_zettles/Untitled 1 1.md",
     "_zettles/GE quotes.md",
-    "_zettles/Blood test.md",
     "ring.md",
     "_zettles/2023-05-10.md",
     "_zettles/beat driving.md",
@@ -194,8 +220,6 @@
     "_articles/Knowledge Index 1.0.md",
     "_wiki/Longform.md",
     "_wiki/Tests.md",
-    "_wiki/Forums.md",
-    "_wiki/CyberSovereignty Toolkit.md",
-    "_wiki/Cryptocurrency.md"
+    "_wiki/Forums.md"
   ]
 }
