@@ -54,9 +54,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "8d768fb121db4dce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_zettles/Lower cortisol.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_zettles/Excipients.md",
+                "file": "_zettles/Lower cortisol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_zettles/Excipients.md",
+                "file": "_zettles/Lower cortisol.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_zettles/Excipients.md"
+                "file": "_zettles/Lower cortisol.md"
               }
             }
           },
@@ -192,10 +204,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e5b73226dd972854",
+  "active": "8d768fb121db4dce",
   "lastOpenFiles": [
-    "_zettles/B vitamins.md",
     "_zettles/Excipients.md",
+    "_zettles/Lower cortisol.md",
+    "_zettles/B vitamins.md",
     "_zettles/Blood test.md",
     "_zettles/anti stress tools.md",
     "_zettles/Magnesium.md",
@@ -219,7 +232,6 @@
     "_wiki/Art.md",
     "_articles/Knowledge Index 1.0.md",
     "_wiki/Longform.md",
-    "_wiki/Tests.md",
-    "_wiki/Forums.md"
+    "_wiki/Tests.md"
   ]
 }
