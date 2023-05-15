@@ -97,3 +97,6 @@ There are **2 possible explanations** for this problem. Either a supplement co
 Coudray C, Rambeau M, Feillet-Coudray C, Gueux E, Tressol JC, Mazur A, Rayssiguier Y: Study of magnesium bioavailability from ten organic and inorganic Mg salts in Mg- depleted rats using a stable isotope approach. Magnes Res 2005;18:215–223.
 
 _Copeland et al v. Albion Laboratories, Inc.; Seeking Health, LLC; and Designs for Health, Inc._, Case No. 15-cv-585, W. D. WA.
+
+https://www.toxinless.com/magnesium-glycinate
+

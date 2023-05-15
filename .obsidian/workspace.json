@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_zettles/B vitamins.md",
+                "file": "_zettles/Magnesium.md",
                 "mode": "source",
                 "source": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_zettles/B vitamins.md",
+                "file": "_zettles/Magnesium.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_zettles/B vitamins.md",
+                "file": "_zettles/Magnesium.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_zettles/B vitamins.md"
+                "file": "_zettles/Magnesium.md"
               }
             }
           },
@@ -206,11 +206,11 @@
   },
   "active": "8d768fb121db4dce",
   "lastOpenFiles": [
+    "_zettles/B vitamins.md",
     "_zettles/beat driving.md",
     "_zettles/Lower cortisol.md",
     "_zettles/Amino Acids.md",
     "_zettles/Excipients.md",
-    "_zettles/B vitamins.md",
     "_zettles/Blood test.md",
     "_zettles/anti stress tools.md",
     "_zettles/Magnesium.md",
