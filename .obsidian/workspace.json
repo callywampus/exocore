@@ -66,9 +66,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "99d9e41f70901987",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_zettles/Mystery Allergy.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_zettles/Magnesium.md",
+                "file": "_zettles/Mystery Allergy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_zettles/Magnesium.md",
+                "file": "_zettles/Mystery Allergy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_zettles/Magnesium.md"
+                "file": "_zettles/Mystery Allergy.md"
               }
             }
           },
@@ -204,21 +216,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8d768fb121db4dce",
+  "active": "99d9e41f70901987",
   "lastOpenFiles": [
+    "_zettles/anti stress tools.md",
+    "_zettles/beat driving.md",
+    "_zettles/Untitled 1 1.md",
+    "_zettles/Untitled.md",
+    "_zettles/Untitled 1.md",
+    "_zettles/Mystery Allergy.md",
+    "_zettles/Magnesium.md",
     "_zettles/Famotadine.md",
     "_zettles/B vitamins.md",
-    "_zettles/beat driving.md",
     "_zettles/Lower cortisol.md",
     "_zettles/Amino Acids.md",
     "_zettles/Excipients.md",
     "_zettles/Blood test.md",
-    "_zettles/anti stress tools.md",
-    "_zettles/Magnesium.md",
     "_zettles/Peaty macros.md",
-    "_zettles/Untitled.md",
-    "_zettles/Untitled 1.md",
-    "_zettles/Untitled 1 1.md",
     "_zettles/GE quotes.md",
     "ring.md",
     "_zettles/2023-05-10.md",
@@ -231,7 +244,6 @@
     "_wiki/Archive Network.md",
     "_wiki/Health + Lifestyle.md",
     "_wiki/Web1 Nostalgia.md",
-    "_wiki/Art.md",
-    "_articles/Knowledge Index 1.0.md"
+    "_wiki/Art.md"
   ]
 }
