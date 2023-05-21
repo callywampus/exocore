@@ -24,7 +24,7 @@ Cyproheptadine blocks calcium channels https://pubmed.ncbi.nlm.nih.gov/6538269/#
 
 cypro is an antihistamine as well, H1 antagonist
 
-I am already taking an H2 antagonist, an H1/Calcium channel blocker could help complete the defense and initiate the "pattern break" to break out of the stress cascade
+I am already taking an famotidine (H2 antagonist + scavenges nitric oxide), so an H1/Calcium channel blocker could help complete the defense and initiate the "pattern break" to break out of the stress cascade
 
 Also:
 Methylene blue used as last resort before ventilator to treat anaphylaxis

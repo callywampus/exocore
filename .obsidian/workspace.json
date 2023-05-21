@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_zettles/White tongue fix.md",
+                "file": "_zettles/Mystery Allergy.md",
                 "mode": "source",
                 "source": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_zettles/White tongue fix.md",
+                "file": "_zettles/Mystery Allergy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_zettles/White tongue fix.md",
+                "file": "_zettles/Mystery Allergy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_zettles/White tongue fix.md"
+                "file": "_zettles/Mystery Allergy.md"
               }
             }
           },
@@ -230,8 +230,9 @@
   },
   "active": "4c31e994cd5a7305",
   "lastOpenFiles": [
-    "_zettles/Mystery Allergy.md",
+    "_zettles/Peaty macros.md",
     "_zettles/White tongue fix.md",
+    "_zettles/Mystery Allergy.md",
     "_zettles/anti stress tools.md",
     "_zettles/beat driving.md",
     "_zettles/Untitled 1 1.md",
@@ -244,7 +245,6 @@
     "_zettles/Amino Acids.md",
     "_zettles/Excipients.md",
     "_zettles/Blood test.md",
-    "_zettles/Peaty macros.md",
     "_zettles/GE quotes.md",
     "ring.md",
     "_zettles/2023-05-10.md",
