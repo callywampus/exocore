@@ -7,7 +7,7 @@ Vit D3/K2
  - [Vitamin D prevents cortisol-induced depression and...inflammation]
  - need K2 for D3 absorbtion
 Magnesium 
- - dioxide or glycinate?
+ - bisglycinate 
 Aspirin 
  - need extra K2 for aspirin or is the K2 included in the Vit D supp enough?
 Progesterone

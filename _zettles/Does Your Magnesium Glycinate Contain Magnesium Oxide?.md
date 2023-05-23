@@ -1,4 +1,3 @@
-# Magnesium
 
 # Does Your Magnesium Glycinate Contain Magnesium Oxide?
 
