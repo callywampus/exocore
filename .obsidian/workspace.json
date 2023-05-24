@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_zettles/Cypro.md",
+                "file": "_zettles/Famotidine.md",
                 "mode": "source",
                 "source": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_zettles/Cypro.md",
+                "file": "_zettles/Famotidine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_zettles/Cypro.md",
+                "file": "_zettles/Famotidine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_zettles/Cypro.md"
+                "file": "_zettles/Famotidine.md"
               }
             }
           },
@@ -218,8 +218,8 @@
   },
   "active": "489596984115e28f",
   "lastOpenFiles": [
-    "_zettles/Mystery Allergy.md",
     "_zettles/Cypro.md",
+    "_zettles/Mystery Allergy.md",
     "_wiki/Longform.md",
     "_wiki/Health + Lifestyle.md",
     "_wiki/Forums.md",
@@ -231,7 +231,7 @@
     "_zettles/White tongue fix.md",
     "_zettles/Lower cortisol.md",
     "_zettles/knowledge is the opposite of truth.md",
-    "_zettles/Famotadine.md",
+    "_zettles/Famotidine.md",
     "_zettles/Chicken necks for thyroid.md",
     "_zettles/Blood test.md",
     "_zettles/beat driving.md",
