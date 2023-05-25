@@ -1,0 +1,2 @@
+# Rhodiola rosea
+Repeated administration of R. ROSEA extract SHR-5 exerts an anti-fatigue effect that increases mental performance, particularly the ability to concentrate, and decreases cortisol response to awakening stress in burnout patients with fatigue syndrome. https://pubmed.ncbi.nlm.nih.gov/19016404/

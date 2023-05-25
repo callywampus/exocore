@@ -78,9 +78,33 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "b6e70eb60b718821",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_zettles/Famotidine.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "c6eca240a54e8788",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_zettles/Baking Soda.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -146,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_zettles/Famotidine.md",
+                "file": "_zettles/Baking Soda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_zettles/Famotidine.md",
+                "file": "_zettles/Baking Soda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_zettles/Famotidine.md"
+                "file": "_zettles/Baking Soda.md"
               }
             }
           },
@@ -216,10 +240,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "489596984115e28f",
+  "active": "c6eca240a54e8788",
   "lastOpenFiles": [
-    "_zettles/Cypro.md",
+    "_zettles/Famotidine.md",
+    "_zettles/Baking Soda.md",
     "_zettles/Mystery Allergy.md",
+    "_zettles/Rhodiola rosea.md",
+    "_zettles/Cypro.md",
     "_wiki/Longform.md",
     "_wiki/Health + Lifestyle.md",
     "_wiki/Forums.md",
@@ -231,7 +258,6 @@
     "_zettles/White tongue fix.md",
     "_zettles/Lower cortisol.md",
     "_zettles/knowledge is the opposite of truth.md",
-    "_zettles/Famotidine.md",
     "_zettles/Chicken necks for thyroid.md",
     "_zettles/Blood test.md",
     "_zettles/beat driving.md",
@@ -243,8 +269,6 @@
     "_zettles/B vitamins.md",
     "ring.md",
     "_zettles/2023-05-10.md",
-    "Untitled.canvas",
-    "_site/articles/Cookware.md",
-    "_articles/Cookware.md"
+    "Untitled.canvas"
   ]
 }

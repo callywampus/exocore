@@ -2,6 +2,8 @@ Symptoms: sudden onset of severe anaphylactic reactions to virtually all foods
 
 most similar condition / potential diagnosis: Eosinophilic Esophagitis https://www.foodallergyawareness.org/food-allergy-and-anaphylaxis/conditions-mistakenly-associated-with-food-allergy/eosinophilic-gastrointestinal-disorder/
 
+https://www.sciencedirect.com/science/article/abs/pii/S0952791508001465
+
 suspect root cause: chronically elevated cortisol + EMF exposure due to work
 
 Reasoning:
