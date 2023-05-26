@@ -3,7 +3,7 @@
 
 tldr progesterone minus side effects (thermogenisis, lethargy, estrogen etc).
 
-Optimal dose: The animal study would extrapolate to a HED of 0.1mg/kg, which means 6mg-10mg daily for most people. My method is more cautious, started with 1mg and added 1mg per day until best effects. Too little cortisol can cause joint ache.
+Optimal dose: The animal study would extrapolate to a HED of 0.1mg/kg, which means 6mg-10mg daily for most people. My method is more cautious, starting with 1mg and adding 1mg per day until best effects. Too little cortisol can cause joint ache.
 
 Some caution from Ray:
 
@@ -16,5 +16,9 @@ Ray: "If something has been seriously investigated for several decades, with a p
 _= It’s that progesterone has extensive functions that are essential for survival in good health, and something which closely resembles its structure is likely to interfere in those processes. It could take years for irreversible and disastrous effects to be noticed._  
   
 _= I think there’s far too little information to judge the risks confidently; I would want at least some good long term animal studies before I tried one of them."_**
+
+The phrasing being inconsistent with the way Ray writes has lead to some skepticism as to whether this is a legitimate email from Ray or a faked quote to bash haidut. Out of abundance of caution I am including it.
+
+
 
 https://raypeatforum.com/community/threads/6-keto-p4-liquid-6-ketoprogesterone-for-lab-r-d.24968/
