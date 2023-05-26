@@ -17,8 +17,8 @@ _= It’s that progesterone has extensive functions that are essential for survi
   
 _= I think there’s far too little information to judge the risks confidently; I would want at least some good long term animal studies before I tried one of them."_**
 
-The phrasing being inconsistent with the way Ray writes has lead to some skepticism as to whether this is a legitimate email from Ray or a faked quote to bash haidut. Out of abundance of caution I am including it.
+The phrasing being inconsistent with the way Ray writes has lead to some skepticism as to whether this is a legitimate email from Ray or a faked quote to bash haidut. For the sake of providing multiple perspectives I am including it.
 
-
+Since this chemical likely opposes cortisol, in a stressful situation if the body cannot mount a cortisol response it may compensate with adrenaline. Some are stacking 6-keto P4 with Pansterone in approximately a 2:1 ratio to account for this. 6-keto, being a progestogen, may compete with progesterone and T for access to the 5-AR enzyme and when used on its own to result in lower DHT or allopregnanolone levels. I have personally not observed a need for this but it is worth mentioning.
 
 https://raypeatforum.com/community/threads/6-keto-p4-liquid-6-ketoprogesterone-for-lab-r-d.24968/
