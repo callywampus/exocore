@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_zettles/Does Your Magnesium Glycinate Contain Magnesium Oxide?.md",
+                "file": "_zettles/6-ketoprogesterone (6-keto P4).md",
                 "mode": "source",
                 "source": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_zettles/Does Your Magnesium Glycinate Contain Magnesium Oxide?.md",
+                "file": "_zettles/6-ketoprogesterone (6-keto P4).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_zettles/Does Your Magnesium Glycinate Contain Magnesium Oxide?.md",
+                "file": "_zettles/6-ketoprogesterone (6-keto P4).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_zettles/Does Your Magnesium Glycinate Contain Magnesium Oxide?.md"
+                "file": "_zettles/6-ketoprogesterone (6-keto P4).md"
               }
             }
           },
@@ -252,8 +252,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a1b911d894f1b0b2",
+  "active": "e509f202f4abd033",
   "lastOpenFiles": [
+    "_zettles/Does Your Magnesium Glycinate Contain Magnesium Oxide?.md",
     "_zettles/Cypro.md",
     "_zettles/Estrogen - cortisol pathway.md",
     "_zettles/6-ketoprogesterone (6-keto P4).md",
@@ -266,7 +267,6 @@
     "_wiki/Forums.md",
     "_zettles/Excipients.md",
     "assets/imgs/hormone_cascade.png",
-    "_zettles/Does Your Magnesium Glycinate Contain Magnesium Oxide?.md",
     "_zettles/Amino Acid Amines.md",
     "_zettles/White tongue fix.md",
     "_zettles/Lower cortisol.md",
