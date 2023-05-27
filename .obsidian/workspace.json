@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_zettles/B vitamins.md",
+                "file": "_wiki/B vitamins.md",
                 "mode": "source",
                 "source": true
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_zettles/Excipients.md",
+                "file": "_wiki/Excipients.md",
                 "mode": "source",
                 "source": true
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_zettles/Stress + EMF = Allergy.md",
+                "file": "_journal/Stress + EMF = Allergy.md",
                 "mode": "source",
                 "source": true
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_zettles/Stress + EMF = Allergy.md",
+                "file": "_journal/Stress + EMF = Allergy.md",
                 "mode": "source",
                 "source": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_zettles/Stress + EMF = Allergy.md",
+                "file": "_journal/Stress + EMF = Allergy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_zettles/Stress + EMF = Allergy.md",
+                "file": "_journal/Stress + EMF = Allergy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_zettles/Stress + EMF = Allergy.md"
+                "file": "_journal/Stress + EMF = Allergy.md"
               }
             }
           },
@@ -218,35 +218,35 @@
   },
   "active": "489596984115e28f",
   "lastOpenFiles": [
-    "_zettles/6-ketoprogesterone (6-keto P4).md",
+    "_journal/Aretê.md",
+    "_journal/Stress + EMF = Allergy.md",
+    "_wiki/6-ketoprogesterone (6-keto P4).md",
     "_zettles/anti stress tools.md",
-    "_zettles/B vitamins.md",
+    "_wiki/B vitamins.md",
     "_zettles/Untitled 1 1.md",
-    "_zettles/Famotidine.md",
-    "_zettles/Magnesium Glycinate vs Magnesium Oxide.md",
+    "_wiki/Famotidine.md",
+    "_articles/Magnesium Glycinate vs Magnesium Oxide.md",
     "_zettles/Peaty macros.md",
     "_zettles/Pollen.md",
-    "_zettles/Rhodiola rosea.md",
+    "_wiki/Rhodiola rosea.md",
     "_zettles/White tongue fix.md",
     "_zettles/Untitled 1.md",
     "_zettles/Untitled.md",
     "_zettles/Baking Soda.md",
     "_zettles/Lower cortisol.md",
-    "_zettles/Excipients.md",
+    "_wiki/Excipients.md",
     "_zettles/Estrogen - cortisol pathway.md",
     "_zettles/Deuterium.md",
     "_zettles/Cypro.md",
     "_zettles/beat driving.md",
-    "_zettles/Stress + EMF = Allergy.md",
     "library/ 6-Ketoprogesterone and its biological actions.pdf",
     "library/Unconfirmed 929785.crdownload",
     "_wiki/Longform.md",
     "_wiki/Health + Lifestyle.md",
     "_wiki/Forums.md",
     "assets/imgs/hormone_cascade.png",
-    "_zettles/Amino Acid Amines.md",
+    "_wiki/Amino Acid Amines.md",
     "_zettles/knowledge is the opposite of truth.md",
-    "_zettles/Chicken necks for thyroid.md",
     "Untitled.canvas"
   ]
 }
