@@ -1,5 +1,5 @@
 
-# Does Your Magnesium Glycinate Contain Magnesium Oxide?
+# Magnesium Glycinate vs Magnesium Oxide?
 
 ## **Something Isn’t Adding Up: Does your Magnesium Glycinate also contain Magnesium Oxide?**
 

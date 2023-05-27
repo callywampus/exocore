@@ -1,3 +1,4 @@
+# Stress + EMF = Allergy
 Symptoms: sudden onset of severe anaphylactic reactions to virtually all foods
 
 most similar condition / potential diagnosis: Eosinophilic Esophagitis https://www.foodallergyawareness.org/food-allergy-and-anaphylaxis/conditions-mistakenly-associated-with-food-allergy/eosinophilic-gastrointestinal-disorder/
