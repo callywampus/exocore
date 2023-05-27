@@ -25,7 +25,7 @@ cypro is an antihistamine as well, H1 antagonist
 
 I am already taking an famotidine (H2 antagonist + scavenges nitric oxide), so an H1/Calcium channel blocker could help complete the defense and initiate the "pattern break" to break out of the stress cascade
 
-[6-ketoprogesterone (6-keto P4)](obsidian://open?vault=exocore&file=_zettles%2F6-ketoprogesterone%20(6-keto%20P4) 
+[6-ketoprogesterone (6-keto P4)](obsidian://open?vault=exocore&file=_zettles%2F6-ketoprogesterone%20(6-keto%20P4) to reduce cortisol
 
 Raising blood sugar can fight allergies https://www.youtube.com/watch?v=JO5uhV2KweY
 

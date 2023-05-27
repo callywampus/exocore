@@ -8,54 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0824525fabf50441",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_zettles/anti stress tools.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "c3419eeca4a26f51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_zettles/anti stress tools.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "c2e0676e5b350cdb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_wiki/B vitamins.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "e5b73226dd972854",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_wiki/Excipients.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "8d768fb121db4dce",
             "type": "leaf",
             "state": {
@@ -66,21 +18,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "489596984115e28f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_journal/Stress + EMF = Allergy.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -216,7 +155,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "489596984115e28f",
+  "active": "8d768fb121db4dce",
   "lastOpenFiles": [
     "_journal/Aretê.md",
     "_journal/Stress + EMF = Allergy.md",
