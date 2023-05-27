@@ -1,3 +1,0 @@
-# Lower cortisol
-Metergoline
-

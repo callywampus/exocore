@@ -33,6 +33,4 @@ Also:
 Methylene blue used as last resort before ventilator to treat anaphylaxis
 https://pubmed.ncbi.nlm.nih.gov/17505688/
 
-Hesitant to rely on solutions that depend on adrenal systems, cortisol, and nitric oxide because they *may* cover acute symptoms but worsen chronic condition
-
-In the meantime I need to get a way to get calories and nutrients without triggering anaphylaxis
+Hesitant to rely on pharma corticosteroid interventions like prednisone that depend on adrenal systems, cortisol, and nitric oxide because they *may* cover acute symptoms but worsen chronic condition
