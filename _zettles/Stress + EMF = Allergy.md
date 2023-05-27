@@ -1,9 +1,5 @@
 # Stress + EMF = Allergy
-Symptoms: sudden onset of severe anaphylactic reactions to virtually all foods
-
-most similar condition / potential diagnosis: Eosinophilic Esophagitis https://www.foodallergyawareness.org/food-allergy-and-anaphylaxis/conditions-mistakenly-associated-with-food-allergy/eosinophilic-gastrointestinal-disorder/
-
-https://www.sciencedirect.com/science/article/abs/pii/S0952791508001465
+Symptoms: sudden onset of severe anaphylactic reactions to seemingly unconnected foods
 
 suspect root cause: chronically elevated cortisol + EMF exposure due to work
 
@@ -28,6 +24,10 @@ Cyproheptadine blocks calcium channels https://pubmed.ncbi.nlm.nih.gov/6538269/#
 cypro is an antihistamine as well, H1 antagonist
 
 I am already taking an famotidine (H2 antagonist + scavenges nitric oxide), so an H1/Calcium channel blocker could help complete the defense and initiate the "pattern break" to break out of the stress cascade
+
+[6-ketoprogesterone (6-keto P4)](obsidian://open?vault=exocore&file=_zettles%2F6-ketoprogesterone%20(6-keto%20P4) 
+
+Raising blood sugar can fight allergies https://www.youtube.com/watch?v=JO5uhV2KweY
 
 Also:
 Methylene blue used as last resort before ventilator to treat anaphylaxis

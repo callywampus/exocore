@@ -3,7 +3,7 @@
 
 **tldr progesterone minus side effects** (thermogenisis, lethargy, estrogen etc).
 
-Optimal dose: The animal study would extrapolate to a HED of 0.1mg/kg, which means 6mg-10mg daily for most people. Apply SFA version topically or the tocopherol one orally or on the gums. Suggested cycle every 2-3 months. My method is more cautious, starting with 1mg and adding 1mg per day until best effects. 
+Optimal dose: The [animal study](obsidian://open?vault=exocore&file=library%2F%206-Ketoprogesterone%20and%20its%20biological%20actions.pdf) would extrapolate to a HED of 0.1mg/kg, which means 6mg-10mg daily for most people. Apply SFA version topically or the tocopherol one orally or on the gums. Suggested cycle every 2-3 months. My method is more cautious, starting with 1mg and adding 1mg per day until best effects. 
 
 Further info on 6-keto steroids:
 *"If one looks at the structure of these steroids we can deduce their benefits. It appears that all 6-Keto anabolics work by increasing both protein synthesis (suggested via messenger RNA) and myotubule increases (the creation of new muscle cells) and the only thing that separates them is their ability to be metabolically cleared in the body.*
