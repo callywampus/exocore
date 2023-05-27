@@ -3,7 +3,7 @@
 
 **tldr progesterone minus side effects** (thermogenisis, lethargy, estrogen etc).
 
-Optimal dose: The animal study would extrapolate to a HED of 0.1mg/kg, which means 6mg-10mg daily for most people. Apply SFA version topically or the tocopherol one orally or on the gums. Suggested cycle every 2-3 months. My method is more cautious, starting with 1mg and adding 1mg per day until best effects. 
+Optimal dose: The animal study would extrapolate to a HED of 0.1mg/kg, which means 6mg-10mg daily for most people. Apply SFA version topically or the tocopherol one orally or on the gums. Suggested cycle every 2-3 months. My method is more cautious, starting with 1mg and adding 1mg per day until subjective best effects. 
 
 Further info on 6-keto steroids:
 *"If one looks at the structure of these steroids we can deduce their benefits. It appears that all 6-Keto anabolics work by increasing both protein synthesis (suggested via messenger RNA) and myotubule increases (the creation of new muscle cells) and the only thing that separates them is their ability to be metabolically cleared in the body.*
@@ -26,7 +26,7 @@ Q: "Hi ray, i was wondering if i could get your thoughts on this compound. Haidu
 
 The phrasing being inconsistent with the way Ray writes has lead to some skepticism as to whether this is a legitimate email from Ray or a faked quote to bash haidut. For the sake of providing multiple perspectives I am including it.
 
-Since this chemical likely opposes cortisol, in a stressful situation if the body cannot mount a cortisol response it may compensate with adrenaline. Some are stacking 6-keto P4 with Pansterone in approximately a 2:1 ratio to account for this. 6-keto, being a progestogen, may compete with progesterone and T for access to the 5-AR enzyme and when used on its own to result in lower DHT or allopregnanolone levels. I have personally not observed a need for this but it is worth mentioning.
+Since this chemical likely opposes cortisol, in a stressful situation if the body cannot mount a cortisol response it may compensate with adrenaline. Some are stacking 6-keto P4 with Pansterone in approximately a 2:1 ratio to account for this. 6-keto, being a progestogen, may compete with progesterone and T for access to the 5-AR enzyme and when used on its own to result in lower DHT or allopregnanolone levels, another reason to stack. I have personally not observed a need for this but it is worth mentioning.
 
 Anecdotal reports suggest high doses of 6-keto P4 can cause joint ache from lowering cortisol too much.
 
