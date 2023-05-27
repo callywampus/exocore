@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "9c2f018bec3a232e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_zettles/The DHA Question™.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_journal/Stress + EMF = Allergy.md",
+                "file": "_zettles/The DHA Question™.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_journal/Stress + EMF = Allergy.md",
+                "file": "_zettles/The DHA Question™.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_journal/Stress + EMF = Allergy.md"
+                "file": "_zettles/The DHA Question™.md"
               }
             }
           },
@@ -155,10 +168,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8d768fb121db4dce",
+  "active": "9c2f018bec3a232e",
   "lastOpenFiles": [
-    "_journal/Aretê.md",
     "_journal/Stress + EMF = Allergy.md",
+    "_zettles/The DHA Question™.md",
+    "_journal/Aretê.md",
     "_wiki/6-ketoprogesterone (6-keto P4).md",
     "_zettles/anti stress tools.md",
     "_wiki/B vitamins.md",
@@ -170,7 +184,6 @@
     "_wiki/Rhodiola rosea.md",
     "_zettles/White tongue fix.md",
     "_zettles/Untitled 1.md",
-    "_zettles/Untitled.md",
     "_zettles/Baking Soda.md",
     "_zettles/Lower cortisol.md",
     "_wiki/Excipients.md",
