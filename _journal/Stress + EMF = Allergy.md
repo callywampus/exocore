@@ -13,6 +13,8 @@ The activation of mast cells (MC) is part of the innate and adaptive immune resp
 
 **stress increases histamine mast cell content** https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2343625/#:~:text=Note%20that%20stress%20increases%20histamine%20mast%20cell%20content
 
+histamine appears to be the most frequently involved biomarker in EHS https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7139347/
+
 So that's a direct link between cortisol and mast cell histamine production (via HPA axis?), a direct link between emf and mast cell histamine production via calcium channels, haven't found a pathway for nitric oxide and mast cell histamine production but it's generally accepted oxidative stress will increase negative effects of NO regarding inflammation markers, and inflammation markers signal histamine production. The nitric oxide-peroxynitrite-oxidative stress pathway is a suspect here.
 
 Self-diagnosis: chronic overproduction of histamine by mast cells due to chronically elevated cortisol and EMF exposure, triggering oxidative stress cascade, causing endothelial dysfunction and severe anaphylactic reactions to foods

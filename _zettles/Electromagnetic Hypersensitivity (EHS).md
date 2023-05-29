@@ -7,3 +7,5 @@ Electrohypersensitivity as a Newly Identified and Characterized Neurologic Patho
 dirty electricity https://greenwavefilters.com/dirty-electricity/
 Further emf reading https://jackkruse.com/page/2/?s=emf
 Tips to mitigate EMF  https://solar-powered.notion.site/100-Simple-EMF-hacks-ac3c1e93e5054ca997c22f67fbe85fe1#5a11a59636c04edc8d162f283fbf6ea8
+
+unlike symptomatic intolerance – EHS appears to be associated with some irreversible neurologic pathological state, requiring strong and persistent prevention.
