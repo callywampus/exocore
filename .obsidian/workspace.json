@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_zettles/Untitled.md",
+                "file": "_zettles/Electromagnetic Hypersensitivity (EHS).md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "63452ff406330c9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_zettles/The DHA Question™.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_zettles/Untitled.md",
+                "file": "_zettles/The DHA Question™.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_zettles/Untitled.md",
+                "file": "_zettles/The DHA Question™.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_zettles/Untitled.md"
+                "file": "_zettles/The DHA Question™.md"
               }
             }
           },
@@ -180,10 +192,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0f9e8a0e070043f4",
+  "active": "63452ff406330c9f",
   "lastOpenFiles": [
+    "_zettles/Electromagnetic Hypersensitivity (EHS).md",
     "_zettles/The DHA Question™.md",
-    "_zettles/Untitled.md",
+    "_zettles/White tongue fix.md",
+    "_zettles/Deuterium.md",
+    "_zettles/Progesterone and Erections.md",
     "_journal/Stress + EMF = Allergy.md",
     "_journal/Aretê.md",
     "_wiki/6-ketoprogesterone (6-keto P4).md",
@@ -195,13 +210,11 @@
     "_zettles/Peaty macros.md",
     "_zettles/Pollen.md",
     "_wiki/Rhodiola rosea.md",
-    "_zettles/White tongue fix.md",
     "_zettles/Untitled 1.md",
     "_zettles/Baking Soda.md",
     "_zettles/Lower cortisol.md",
     "_wiki/Excipients.md",
     "_zettles/Estrogen - cortisol pathway.md",
-    "_zettles/Deuterium.md",
     "_zettles/Cypro.md",
     "_zettles/beat driving.md",
     "library/ 6-Ketoprogesterone and its biological actions.pdf",
@@ -210,7 +223,6 @@
     "_wiki/Health + Lifestyle.md",
     "_wiki/Forums.md",
     "assets/imgs/hormone_cascade.png",
-    "_wiki/Amino Acid Amines.md",
     "Untitled.canvas"
   ]
 }
