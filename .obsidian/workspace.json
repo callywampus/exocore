@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8d768fb121db4dce",
+            "id": "9c2f018bec3a232e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_journal/Stress + EMF = Allergy.md",
+                "file": "_wiki/Voltage-Gated Calcium Channels (VGCCs).md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "9c2f018bec3a232e",
+            "id": "8d768fb121db4dce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_zettles/The DHA Question™.md",
+                "file": "_journal/Stress + EMF = Allergy.md",
                 "mode": "source",
                 "source": true
               }
@@ -42,33 +42,9 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "63452ff406330c9f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_journal/Stress + EMF = Allergy.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "0d976f151887c943",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_wiki/Voltage-Gated Calcium Channels (VGCCs).md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_wiki/Voltage-Gated Calcium Channels (VGCCs).md",
+                "file": "_journal/Stress + EMF = Allergy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_wiki/Voltage-Gated Calcium Channels (VGCCs).md",
+                "file": "_journal/Stress + EMF = Allergy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_wiki/Voltage-Gated Calcium Channels (VGCCs).md"
+                "file": "_journal/Stress + EMF = Allergy.md"
               }
             }
           },
@@ -204,14 +180,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0d976f151887c943",
+  "active": "8d768fb121db4dce",
   "lastOpenFiles": [
-    "_journal/Stress + EMF = Allergy.md",
+    "_zettles/Electromagnetic Hypersensitivity (EHS).md",
     "_wiki/Voltage-Gated Calcium Channels (VGCCs).md",
+    "_zettles/The DHA Question™.md",
+    "_journal/Stress + EMF = Allergy.md",
     "_wiki/Famotidine.md",
     "_wiki/Amino Acid Amines.md",
-    "_zettles/The DHA Question™.md",
-    "_zettles/Electromagnetic Hypersensitivity (EHS).md",
     "_zettles/White tongue fix.md",
     "_zettles/Deuterium.md",
     "_zettles/Progesterone and Erections.md",
