@@ -31,6 +31,8 @@ I am already taking an famotidine (H2 antagonist + scavenges nitric oxide), so a
 
 Raising blood sugar can fight allergies https://www.youtube.com/watch?v=JO5uhV2KweY
 
+endocannabinoids can inhibit voltage gated calcium channels
+
 Also:
 Methylene blue used as last resort before ventilator to treat anaphylaxis
 https://pubmed.ncbi.nlm.nih.gov/17505688/
