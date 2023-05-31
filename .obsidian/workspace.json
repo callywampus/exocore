@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_journal/Stress + EMF = Allergy.md",
+                "file": "_zettles/Electromagnetic Hypersensitivity (EHS).md",
                 "mode": "source",
                 "source": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_journal/Stress + EMF = Allergy.md",
+                "file": "_zettles/Electromagnetic Hypersensitivity (EHS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_journal/Stress + EMF = Allergy.md",
+                "file": "_zettles/Electromagnetic Hypersensitivity (EHS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_journal/Stress + EMF = Allergy.md"
+                "file": "_zettles/Electromagnetic Hypersensitivity (EHS).md"
               }
             }
           },
@@ -182,10 +182,10 @@
   },
   "active": "8d768fb121db4dce",
   "lastOpenFiles": [
+    "_journal/Stress + EMF = Allergy.md",
     "_zettles/Electromagnetic Hypersensitivity (EHS).md",
     "_wiki/Voltage-Gated Calcium Channels (VGCCs).md",
     "_zettles/The DHA Question™.md",
-    "_journal/Stress + EMF = Allergy.md",
     "_wiki/Famotidine.md",
     "_wiki/Amino Acid Amines.md",
     "_zettles/White tongue fix.md",
