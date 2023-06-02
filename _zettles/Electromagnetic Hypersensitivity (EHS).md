@@ -9,7 +9,7 @@ Biological Effects and Health Consequences of ELF and RF Fields https://www.scie
 Electrohypersensitivity as a Newly Identified and Characterized Neurologic Pathological Disorder: How to Diagnose, Treat, and Prevent It https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7139347/
 
 EHS https://www.sciencedirect.com/topics/medicine-and-dentistry/electromagnetic-hypersensitivity
-dirty electricity https://greenwavefilters.com/dirty-electricity/
+dirty electricity https://greenwavefilters.com/dirty-electricity/ non-continuous power draw
 Further emf reading https://jackkruse.com/page/2/?s=emf
 Tips to mitigate EMF  https://solar-powered.notion.site/100-Simple-EMF-hacks-ac3c1e93e5054ca997c22f67fbe85fe1#5a11a59636c04edc8d162f283fbf6ea8
 
