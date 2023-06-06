@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_zettles/Electromagnetic Hypersensitivity (EHS).md",
+                "file": "_wiki/Voltage-Gated Calcium Channels (VGCCs).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_zettles/Electromagnetic Hypersensitivity (EHS).md",
+                "file": "_wiki/Voltage-Gated Calcium Channels (VGCCs).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_zettles/Electromagnetic Hypersensitivity (EHS).md"
+                "file": "_wiki/Voltage-Gated Calcium Channels (VGCCs).md"
               }
             }
           },
@@ -180,13 +180,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ba1ad1072fca4320",
+  "active": "9c2f018bec3a232e",
   "lastOpenFiles": [
+    "_zettles/Electromagnetic Hypersensitivity (EHS).md",
     "_wiki/Voltage-Gated Calcium Channels (VGCCs).md",
     "_wiki/Tests.md",
     "_wiki/Rhodiola rosea.md",
     "_wiki/Famotidine.md",
-    "_zettles/Electromagnetic Hypersensitivity (EHS).md",
     "_zettles/Estrogen - cortisol pathway.md",
     "_zettles/The DHA Question™.md",
     "_journal/Stress + EMF = Allergy.md",
