@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_wiki/Voltage-Gated Calcium Channels (VGCCs).md",
+                "file": "_zettles/Electromagnetic Hypersensitivity (EHS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_wiki/Voltage-Gated Calcium Channels (VGCCs).md",
+                "file": "_zettles/Electromagnetic Hypersensitivity (EHS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_wiki/Voltage-Gated Calcium Channels (VGCCs).md"
+                "file": "_zettles/Electromagnetic Hypersensitivity (EHS).md"
               }
             }
           },
@@ -180,10 +180,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9c2f018bec3a232e",
+  "active": "ba1ad1072fca4320",
   "lastOpenFiles": [
-    "_zettles/Electromagnetic Hypersensitivity (EHS).md",
     "_wiki/Voltage-Gated Calcium Channels (VGCCs).md",
+    "_zettles/Electromagnetic Hypersensitivity (EHS).md",
     "_wiki/Tests.md",
     "_wiki/Rhodiola rosea.md",
     "_wiki/Famotidine.md",

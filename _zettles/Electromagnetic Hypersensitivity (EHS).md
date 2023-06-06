@@ -45,3 +45,15 @@ One hundred seventy-four 21- to 24-day-old Sprague-Dawley rats were continuously
 
 
 try and determine if the stetzer filters even work or if they're just dirtying up the neutral ,/ ground by sending the dirty electricity down those paths and not really eliminate in it? As far as stetzer and greenwave filters are concerned, you can use acheap Chinese "save energy boxes" instead, which are the same thing internally as a stetzer filter (fairly large capacitor and a resistor - to dissipate the built-up charge when unplugged) - you may need a couple more but they're so cheap it doesn't matter, they're like $3 a piece on eBay and Ali Express.
+
+[Delta vs. Wye System Comparison | Protect Your Family from EMF Radiation Pollution (emfanalysis.com)](https://www.emfanalysis.com/delta-wye-comparison/) 
+
+[http://www.eiwellspring.org/plc/PLC_antenna_effect.htm](http://www.eiwellspring.org/plc/PLC_antenna_effect.htm)
+
+http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19810017132_1981017132.pdf
+
+[http://www.hese-project.org/uk_forum/index.php?mode=thread&id=311](http://www.hese-project.org/uk_forum/index.php?mode=thread&id=311)
+
+[http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1241963/](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1241963/)
+
+[http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4346720/](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4346720/)
