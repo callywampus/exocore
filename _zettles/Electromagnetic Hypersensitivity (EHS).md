@@ -57,3 +57,13 @@ http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19810017132_1981017132.pdf
 [http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1241963/](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1241963/)
 
 [http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4346720/](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4346720/)
+
+I highly recommend the Gigahertz Solutions ME 3840B – Low frequency analyzer for it’s base accuracy and wide bandwidth. For a more professional diagnostic using time logging, see the Gigahertz Solutions NFA Meters for low frequency measurement.
+
+Checking for ground current is difficult. You could get a body voltage meter with a 100′ cord to see if there is a voltage differential between where you ground and other areas on your property.
+
+EMFA-10 
+
+Vivid dreams means you are getting poor sleep. [http://www.scientificamerican.com/article/strange-but-true-less-sleep-means-more-dreams/](http://www.scientificamerican.com/article/strange-but-true-less-sleep-means-more-dreams/)
+
+By grounding you are absorbing electricity at a much higher rate. That ground wire (bare copper) attached to your sheet is also attached to the neutral (white wire) at the breaker panel. [https://www.youtube.com/watch?v=-buqEbNRhIQ](https://www.youtube.com/watch?v=-buqEbNRhIQ)
