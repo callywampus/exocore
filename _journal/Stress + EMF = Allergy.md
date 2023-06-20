@@ -1,7 +1,5 @@
 # Stress + EMF = Allergy
-Symptoms: sudden onset of severe anaphylactic reactions to seemingly unconnected foods
-
-suspect root cause: chronically elevated cortisol + EMF exposure due to work
+chronically elevated cortisol + EMF exposure can cause allergy symptoms, including anaphylaxis.
 
 Reasoning:
 

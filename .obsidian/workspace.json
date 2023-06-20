@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_zettles/Blood test.md",
+                "file": "_journal/Stress + EMF = Allergy.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_zettles/Blood test.md",
+                "file": "_journal/Stress + EMF = Allergy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_zettles/Blood test.md",
+                "file": "_journal/Stress + EMF = Allergy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_zettles/Blood test.md"
+                "file": "_journal/Stress + EMF = Allergy.md"
               }
             }
           },
@@ -157,6 +157,8 @@
   },
   "active": "8d768fb121db4dce",
   "lastOpenFiles": [
+    "_zettles/Electromagnetic Hypersensitivity (EHS).md",
+    "_zettles/Blood test.md",
     "_zettles/beat driving.md",
     "_zettles/Baking Soda.md",
     "_zettles/anti stress tools.md",
@@ -174,7 +176,6 @@
     "_wiki/Forums.md",
     "_wiki/Rhodiola rosea.md",
     "_wiki/Voltage-Gated Calcium Channels (VGCCs).md",
-    "_zettles/Electromagnetic Hypersensitivity (EHS).md",
     "_wiki/Tests.md",
     "_wiki/Famotidine.md",
     "_zettles/Estrogen - cortisol pathway.md",
@@ -182,7 +183,6 @@
     "_zettles/Deuterium.md",
     "_zettles/Progesterone and Erections.md",
     "_journal/Aretê.md",
-    "_wiki/6-ketoprogesterone (6-keto P4).md",
     "library/ 6-Ketoprogesterone and its biological actions.pdf",
     "library/Unconfirmed 929785.crdownload",
     "assets/imgs/hormone_cascade.png",
