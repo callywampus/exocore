@@ -5,7 +5,7 @@ Androgens
 Progesterone
 DHEA - 380-420mg/dl
 Endocrine
-Whole blood seratonin
+Whole blood serotonin
 Thyroid
 TSH
 Estrone sulfate
