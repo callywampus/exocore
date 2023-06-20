@@ -58,7 +58,7 @@ http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19810017132_1981017132.pdf
 
 [http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4346720/](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4346720/)
 
-I highly recommend the Gigahertz Solutions ME 3840B – Low frequency analyzer for it’s base accuracy and wide bandwidth. For a more professional diagnostic using time logging, see the Gigahertz Solutions NFA Meters for low frequency measurement.
+Gigahertz Solutions ME 3840B – Low frequency analyzer for it’s base accuracy and wide bandwidth. For a more professional diagnostic using time logging, see the Gigahertz Solutions NFA Meters for low frequency measurement.
 
 Checking for ground current is difficult. You could get a body voltage meter with a 100′ cord to see if there is a voltage differential between where you ground and other areas on your property.
 

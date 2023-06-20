@@ -16,7 +16,7 @@ DHA has made it through 600 million years of evolution, indicating its importanc
 
 specifically, DHA from seafood. is in useable SN-2 position and selenium + iodine in seafood prevent oxidation (fact check)
 
-# other theory
+# other (pro n-3 + n-6)
 One theory DHA-derived lipid peroxides causing oxidative damage to mylenin + EMF-induced demylenation of nerve cells. This process gets out of control becaude the omega-6 controlled arachidonic acid that would usually suppress this stress is itself suppressed by excess DHA
 
 With the overconsumption of EPA and DHA, serum polyunsaturated fatty acid concentration can far outstrip the body’s natural defenses against lipid peroxidation. I am not talking about fish oils that have oxidized due to heat exposure or improper storage. This is something that happens in blood serum and in the brain when fat soluble antioxidants stores have been overutilized. This can easily happen with low-grade, chronic infection, exposure to electromagnetic fields, stress and trauma, and any other trigger for oxidative stress systemically. The result is an increase in DHA-derived lipid peroxides and, eventually, oxidative damage to myelin. The double-insult here is that in addition to lipid peroxidation and demyelination (potentially induced by EMF-exposure), the high levels of Omega-3 fatty acids have suppressed the arachidonic acid cascade, and damage to neurons cannot be sufficiently repaired nor grown with the help of neurotrophin-derived factors.
