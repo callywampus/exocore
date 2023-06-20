@@ -11,6 +11,4 @@ TSH
 Estrone sulfate
 DHEA sulfate
 Vit d 50-55ng/dl
-
-
-Brainfog is often a result of lacking Magnesium, therefore you should measure magnesium in the whole blood (not only serum) and manganese as control indicator
+whole blood magnesium + manganese as control indicator
