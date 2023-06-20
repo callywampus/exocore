@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_wiki/Metaphysics + Cosmology.md",
+                "file": "_zettles/Electromagnetic Hypersensitivity (EHS).md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_wiki/Metaphysics + Cosmology.md",
+                "file": "_zettles/Electromagnetic Hypersensitivity (EHS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_wiki/Metaphysics + Cosmology.md",
+                "file": "_zettles/Electromagnetic Hypersensitivity (EHS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_wiki/Metaphysics + Cosmology.md"
+                "file": "_zettles/Electromagnetic Hypersensitivity (EHS).md"
               }
             }
           },
@@ -157,8 +157,9 @@
   },
   "active": "8d768fb121db4dce",
   "lastOpenFiles": [
-    "_wiki/Nutrition.md",
     "_wiki/Voltage-Gated Calcium Channels (VGCCs).md",
+    "_wiki/Metaphysics + Cosmology.md",
+    "_wiki/Nutrition.md",
     "library/Havas-response-to-evaluation-of-stetzer-filters.pdf",
     "library/Unconfirmed 183841.crdownload",
     "_zettles/Chicken necks for thyroid.md",
@@ -184,7 +185,6 @@
     "_wiki/Health + Lifestyle.md",
     "_wiki/Forums.md",
     "_wiki/Rhodiola rosea.md",
-    "_wiki/Tests.md",
     "library/ 6-Ketoprogesterone and its biological actions.pdf",
     "library/Unconfirmed 929785.crdownload",
     "assets/imgs/hormone_cascade.png",
