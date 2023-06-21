@@ -1,4 +1,4 @@
-# Electromagnetic Hypersensitivity (EHS)
+# EMF Research Dump
 
 Biological Effects and Health Consequences of ELF and RF Fields https://www.sciencedirect.com/science/article/abs/pii/B9780444536327008169?via%3Dihub
 

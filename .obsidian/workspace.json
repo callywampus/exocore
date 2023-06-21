@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_articles/Cookware.md",
+                "file": "_zettles/EMF Research Dump.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_articles/Cookware.md",
+                "file": "_zettles/EMF Research Dump.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_articles/Cookware.md",
+                "file": "_zettles/EMF Research Dump.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_articles/Cookware.md"
+                "file": "_zettles/EMF Research Dump.md"
               }
             }
           },
@@ -157,6 +157,9 @@
   },
   "active": "8d768fb121db4dce",
   "lastOpenFiles": [
+    "_articles/Cookware.md",
+    "library/Review-on-Toxicity-of-Stainless-Steel.pdf",
+    "library/84322713.pdf",
     "_wiki/Voltage-Gated Calcium Channels (VGCCs).md",
     "_wiki/Rhodiola rosea.md",
     "_wiki/Famotidine.md",
@@ -169,7 +172,7 @@
     "_zettles/Chicken necks for thyroid.md",
     "_zettles/Cypro.md",
     "_zettles/Deuterium.md",
-    "_zettles/Electromagnetic Hypersensitivity (EHS).md",
+    "_zettles/EMF Research Dump.md",
     "_zettles/Nutrition.md",
     "_zettles/The DHA Question™.md",
     "library/Psychopathia_Sexualis_1000006945.pdf",
@@ -186,7 +189,6 @@
     "_zettles/Art.md",
     "_zettles/Archive Network.md",
     "_zettles/Amino Acid Amines.md",
-    "_articles/Magnesium Glycinate vs Magnesium Oxide.md",
     "library/ 6-Ketoprogesterone and its biological actions.pdf",
     "library/Unconfirmed 929785.crdownload",
     "assets/imgs/hormone_cascade.png",
