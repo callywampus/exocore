@@ -1,0 +1,4 @@
+# Excipients
+Some  excipients are added as flow agents so that the powders flow into the machinery that forms the pills. Other excipients are binding agents which are added so that the pills do not readily crumble when you put them in your hand. Crumbling is especially problematic after the pills have been exposed to humid air. One of the issues with these binding agents is that they are so effective that the pills do not dissolve after they are swallowed. The pills then burn little holes in the inside of the gastrointestinal track and cause internal bleeding.  
+  
+Aspirin powder does not contain excipients. Thus, it is a higher quality product and it is given to racehorses. The power dissolves readily in coffee and tea and is much less likely to cause internal bleeding. Ray recommends taking vitamin K if you are taking aspirin.

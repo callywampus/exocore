@@ -6,15 +6,13 @@ tags: nutrition
 ---
 
 # Cookware
-Probably the safest cookware isn't Stainless Steel- it's enameled cast iron. Enameled Cast Iron is perfectly safe as long as the interior of the dish is white - the lack of color very likely indicating a lack of lead in the enamal (colored enamels more often have lead). Le Creuset makes a model but it's super expensive. The Lodge makes one that's nearly as good at 1/6 the price. [http://www.amazon.com/Lodge-EC6D43-Enam ... ql_qh_dp_t](http://www.amazon.com/Lodge-EC6D43-Enameled-Island-6-Quart/dp/B000N501BK/ref=cm_cd_ql_qh_dp_t)  
-
-Keep in mind it is probably a fraction of the price for a reason.
+Probably the safest cookware isn't Stainless Steel- it's enameled cast iron. Enameled Cast Iron is perfectly safe as long as the interior of the dish is white - the lack of color very likely indicating a lack of lead in the enamal (colored enamels more often have lead). Le Creuset makes a model but it's super expensive. The Lodge makes one that's nearly as good at 1/6 the price. Keep in mind it is probably a fraction of the price for a reason.
   
 Second best option is Stainless Steel. Obviously you can't buy the cheapo 200 series, which releases a bunch of metal. So you're left choosing between the 300 (18/10) and 400 (18/0) series. The 400 series can have as low as >1% Nickel, which sounds like a great option. But here's the problem... it's much more corrosive than the 300 series, and although there's no nickel to leach in the 400 series, it has higher total release rates of metal than the 300 series, with the vast majority of the release being iron. (This info can be found in page 30 of the study provided in the forthcoming link.) Lastly, it's very hard to find pans that are 18/0 on the exterior and interior. Typically they'll be 18/0 on the exterior (for induction) and 18/10 on the interior. The only one I found that MIGHT be 18/0 on the inside and out is the Farberware Millenium Set, but honestly I don't care. A good quality 300 series (like All-Clad) is a better option. Once the sets are scratched, pitted, corroded and damaged, the release rates of metals is much higher. A quality 300 series set could last multiple lifetimes with little wear. The 400 series isn't likely to last 10 years without damage.  
   
-The remainder of my response is lifted from the comments section of gnowfglins.com's article on The Scoop on Stainless Steel Cookware, written by user Holly Gates. It sums it all up nicely:  
+The remainder of this entry is lifted from the comments section of gnowfglins.com's article on The Scoop on Stainless Steel Cookware, written by user Holly Gates. It sums it all up nicely:  
   
-_300 series stainless is generally speaking more corrosion resistant than 400 series, meaning that less of the metal would get into your food).  
+300 series stainless is generally speaking more corrosion resistant than 400 series, meaning that less of the metal would get into your food).  
   
 Here is a very pertinent survey conducted by the government of Finland in 2010:  
   
@@ -34,4 +32,4 @@ Exceptions are with the first few uses of new pots, and with some types of welds
   
 Many surgical implants and medical devices are made from 316L. This is because it is among the least reactive materials with biological systems that can be produced and worked at a reasonable cost.  
   
-To me, knowing that my food itself contains 10x the amount of what is coming off my pot makes me feel quite comfortable with the safety of my 304 stainless._
+To me, knowing that my food itself contains 10x the amount of what is coming off my pot makes me feel quite comfortable with the safety of my 304 stainless.

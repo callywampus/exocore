@@ -7,4 +7,4 @@ Two doses of 0.5mg per kg (~40mg for a ~190lb man) was enough to raise stomach p
 
 elimination half-life of about 2 to 4h https://pubmed.ncbi.nlm.nih.gov/1764869/#:~:text=After%20intravenous%20administration%20the%20plasma,of%20about%202%20to%204h
 
-Histamine binds to H2 receptors located on the surface of parietal cells to stimulate gastric acid secretion. The H2 antagonism is useful in a pinch but may be offset by a reduction in stomach acid causing digestive problems
+Histamine binds to H2 receptors located on the surface of parietal cells to stimulate gastric acid secretion. The H2 antagonism is useful in a pinch but benefits may be offset by a reduction in stomach acid causing digestive problems.
