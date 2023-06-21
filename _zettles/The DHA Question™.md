@@ -12,9 +12,15 @@ DHA specifically is special, and different than other n-3 fatty acids. because i
 
 DHA has made it through 600 million years of evolution, indicating its importance https://academic.oup.com/milmed/article/179/suppl_11/61/4210234?login=false
 
+https://www.sciencedirect.com/science/article/abs/pii/S0952327812001470
+
+https://scholar.google.com/scholar?hl=en&as_sdt=0%2C33&q=author%3A%22Crawford+Michael+A.%22+quantum&btnG=
+
 *Both studies were gold-standard randomized, double-blind, placebo-controlled trials and both compared the impact of a highly oxidized fish oil, a regular fish oil, and a placebo on a wide variety of established markers of oxidation and antioxidative systems....demonstrated that high dosages of highly oxidized fish oil do not induce oxidative stress in our bodies.* https://onlinelibrary.wiley.com/doi/full/10.1002/lite.201600013
 
 specifically, DHA from seafood. is in useable SN-2 position and selenium + iodine in seafood prevent oxidation (fact check)
+
+photoelectric effect, Dr Kruse etc
 
 # other (pro n-3 + n-6)
 One theory DHA-derived lipid peroxides causing oxidative damage to mylenin + EMF-induced demylenation of nerve cells. This process gets out of control becaude the omega-6 controlled arachidonic acid that would usually suppress this stress is itself suppressed by excess DHA

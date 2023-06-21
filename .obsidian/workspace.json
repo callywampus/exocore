@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_zettles/Electromagnetic Hypersensitivity (EHS).md",
+                "file": "_zettles/The DHA Question™.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_zettles/Electromagnetic Hypersensitivity (EHS).md",
+                "file": "_zettles/The DHA Question™.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_zettles/Electromagnetic Hypersensitivity (EHS).md",
+                "file": "_zettles/The DHA Question™.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_zettles/Electromagnetic Hypersensitivity (EHS).md"
+                "file": "_zettles/The DHA Question™.md"
               }
             }
           },
@@ -157,6 +157,7 @@
   },
   "active": "8d768fb121db4dce",
   "lastOpenFiles": [
+    "_zettles/Electromagnetic Hypersensitivity (EHS).md",
     "_wiki/Voltage-Gated Calcium Channels (VGCCs).md",
     "_wiki/Metaphysics + Cosmology.md",
     "_wiki/Nutrition.md",
@@ -172,7 +173,6 @@
     "_zettles/Progesterone and Erections.md",
     "_zettles/Peaty macros.md",
     "_journal/Stress + EMF = Allergy.md",
-    "_zettles/Electromagnetic Hypersensitivity (EHS).md",
     "_zettles/beat driving.md",
     "_wiki/B vitamins.md",
     "_wiki/Art.md",
