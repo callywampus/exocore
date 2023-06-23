@@ -10,7 +10,7 @@ A disorganized research dump that I will clean up later. Ideally the finished en
 
 ## Bibliography
 
-Other relevant entries: 
+Other relevant entries: [[Stress + EMF = Allergy]] and [[Voltage-Gated Calcium Channels (VGCCs)]]
 
 Biological Effects and Health Consequences of ELF and RF Fields https://www.sciencedirect.com/science/article/abs/pii/B9780444536327008169?via%3Dihub
 
