@@ -1,5 +1,17 @@
 # EMF Research Dump
 
+A disorganized research dump that I will clean up later. Ideally the finished entry will be structured as follows:
+
+## Conceptual introduction
+
+## Mechanisms of Action
+
+## Solutions
+
+## Bibliography
+
+Other relevant entries: 
+
 Biological Effects and Health Consequences of ELF and RF Fields https://www.sciencedirect.com/science/article/abs/pii/B9780444536327008169?via%3Dihub
 
 *"EMF can induce changes in calcium signaling cascades, significant activation of free radical processes and overproduction of reactive oxygen species (ROS) in living cells as well as altered neurological and cognitive functions and disruption of the blood-brain barrier....
@@ -74,3 +86,17 @@ https://raypeatforum.com/community/threads/blocking-the-negative-effects-of-elec
 
 study on EMF blocking with CCB:  
 [http://jab.zsf.jcu.cz//6_3/elswefy.pdf](http://jab.zsf.jcu.cz//6_3/elswefy.pdf)
+
+https://transcendingsquare.com/2017/12/22/emfs-and-intracellular-calcium-magnesium-is-natures-calcium-channel-blocker/
+
+https://www.researchgate.net/publication/261514829_Electromagnetic_field_activation_of_voltage-gated_calcium_channels_Role_in_therapeutic_effects#pf3
+
+https://web.archive.org/web/20200813120602/http://www1.lsbu.ac.uk/water/water_molecule.html#what
+
+[Evaluating DNA damage in rodent brain after acute 60 Hz magnetic-field exposure](https://pubmed.ncbi.nlm.nih.gov/16296885/)
+
+https://www.convert-measurement-units.com/convert+Tesla+to+Milligauss.php
+
+https://www.emfanalysis.com/recommended-emf-meters/
+
+https://solar-powered.notion.site/100-Simple-EMF-hacks-ac3c1e93e5054ca997c22f67fbe85fe1
