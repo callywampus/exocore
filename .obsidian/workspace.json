@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_zettles/EMF Research Dump.md",
+                "file": "_zettles/White tongue fix.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_zettles/EMF Research Dump.md",
+                "file": "_zettles/White tongue fix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_zettles/EMF Research Dump.md",
+                "file": "_zettles/White tongue fix.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_zettles/EMF Research Dump.md"
+                "file": "_zettles/White tongue fix.md"
               }
             }
           },
@@ -155,7 +155,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8d768fb121db4dce",
+  "active": "e509f202f4abd033",
   "lastOpenFiles": [
     "_zettles/EMF Research Dump.md",
     "_wiki/6-ketoprogesterone (6-keto P4).md",
