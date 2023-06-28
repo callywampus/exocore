@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_zettles/White tongue fix.md",
+                "file": "_zettles/White tongue.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_zettles/White tongue fix.md",
+                "file": "_zettles/White tongue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_zettles/White tongue fix.md",
+                "file": "_zettles/White tongue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_zettles/White tongue fix.md"
+                "file": "_zettles/White tongue.md"
               }
             }
           },
@@ -155,8 +155,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e509f202f4abd033",
+  "active": "8d768fb121db4dce",
   "lastOpenFiles": [
+    "_zettles/White tongue.md",
+    "library/kuhn-as-empiricist.pdf",
+    "library/Unconfirmed 566036.crdownload",
     "_zettles/EMF Research Dump.md",
     "_wiki/6-ketoprogesterone (6-keto P4).md",
     "_articles/Cookware.md",
@@ -181,14 +184,12 @@
     "library/Unconfirmed 183841.crdownload",
     "_zettles/anti stress tools.md",
     "_zettles/Pollen.md",
-    "_zettles/White tongue fix.md",
     "_zettles/Progesterone and Erections.md",
     "_zettles/Peaty macros.md",
     "_journal/Stress + EMF = Allergy.md",
     "_zettles/B vitamins.md",
     "_zettles/Art.md",
     "_zettles/Archive Network.md",
-    "_zettles/Amino Acid Amines.md",
     "library/ 6-Ketoprogesterone and its biological actions.pdf",
     "library/Unconfirmed 929785.crdownload",
     "assets/imgs/hormone_cascade.png",
