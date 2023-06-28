@@ -5,7 +5,17 @@ White tongue can have a number of root causes which makes it tricky to accuratel
 
 ## Local Tissues
 
-Baking soda and/or salt gargles are home remedies to treat locally.
+### Home Remedies
+
+1. [[Baking soda]]
+2. Coconut oil pulling
+3. Oregano oil
+	1. [In vitro activity of origanum vulgare essential oil against candida species - PMC (nih.gov)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3768597/)
+4. Pau d’arco tea
+	1. [Antinociceptive and antiedematogenic properties and acute toxicity of Tabebuia avellanedae Lor. ex Griseb. inner bark aqueous extract - PubMed (nih.gov)](https://pubmed.ncbi.nlm.nih.gov/11574048/)
+5. Tongue scraping
+
+### Pharmaceutical Remedies
 
 More intensive treatment includes the antifungal Nystatin.
 

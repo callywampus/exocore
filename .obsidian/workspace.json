@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_zettles/White tongue.md",
+                "file": "_zettles/Cryptocurrency.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_zettles/White tongue.md",
+                "file": "_zettles/Cryptocurrency.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_zettles/White tongue.md",
+                "file": "_zettles/Cryptocurrency.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_zettles/White tongue.md"
+                "file": "_zettles/Cryptocurrency.md"
               }
             }
           },
@@ -157,7 +157,11 @@
   },
   "active": "8d768fb121db4dce",
   "lastOpenFiles": [
-    "_zettles/White tongue.md",
+    "_wiki/White tongue.md",
+    "_wiki/Voltage-Gated Calcium Channels (VGCCs).md",
+    "_wiki/Rhodiola rosea.md",
+    "_wiki/Famotidine.md",
+    "_zettles/Baking Soda.md",
     "library/kuhn-as-empiricist.pdf",
     "library/Unconfirmed 566036.crdownload",
     "_zettles/EMF Research Dump.md",
@@ -165,12 +169,8 @@
     "_articles/Cookware.md",
     "library/Review-on-Toxicity-of-Stainless-Steel.pdf",
     "library/84322713.pdf",
-    "_wiki/Voltage-Gated Calcium Channels (VGCCs).md",
-    "_wiki/Rhodiola rosea.md",
-    "_wiki/Famotidine.md",
     "_zettles/Excipients.md",
     "_zettles/Metaphysics + Cosmology.md",
-    "_zettles/Baking Soda.md",
     "_zettles/beat driving.md",
     "_zettles/Blood test.md",
     "_zettles/Chicken necks for thyroid.md",
