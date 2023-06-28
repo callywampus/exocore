@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_zettles/Cryptocurrency.md",
+                "file": "_wiki/Famotidine.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_zettles/Cryptocurrency.md",
+                "file": "_wiki/Famotidine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_zettles/Cryptocurrency.md",
+                "file": "_wiki/Famotidine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_zettles/Cryptocurrency.md"
+                "file": "_wiki/Famotidine.md"
               }
             }
           },
@@ -158,7 +158,8 @@
   "active": "8d768fb121db4dce",
   "lastOpenFiles": [
     "_wiki/White tongue.md",
-    "_wiki/Voltage-Gated Calcium Channels (VGCCs).md",
+    "_zettles/Voltage-Gated Calcium Channels (VGCCs).md",
+    "_zettles/Cryptocurrency.md",
     "_wiki/Rhodiola rosea.md",
     "_wiki/Famotidine.md",
     "_zettles/Baking Soda.md",
