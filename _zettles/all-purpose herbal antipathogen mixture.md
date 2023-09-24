@@ -1,0 +1,2 @@
+# all-purpose herbal antipathogen mixture
+carried in MCT: clove, oregano, cinnamon, thyme, tea tree, and eucalyptus. From the studies I've read, those oils should overcome the whole bacterial, viral, and fungal pathogen spectrum studied.

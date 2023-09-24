@@ -1,0 +1,2 @@
+# Quercetin
+Quercetin is a flavonoid (a type of polyphenol) that is known for its antioxidant and anti-inflammatory properties. Quercetin is also known to have antihistamine effects and is often used to alleviate allergy symptoms. It can be taken as a supplement, but it is also readily available in many common foods like various fruits, vegetables, and grains, such as apples, onions, berries, and leafy greens. It can be useful for treating IBS symptoms.

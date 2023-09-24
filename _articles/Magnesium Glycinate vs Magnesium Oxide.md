@@ -3,6 +3,8 @@
 
 ## **Something Isn’t Adding Up: Does your Magnesium Glycinate also contain Magnesium Oxide?**
 
+tldr: if your magnesium glycinate supplement contains more than 120mg per serving  then it probably has unlisted magnesium oxide in it as well, which will give you diarrhea.
+
 Magnesium is one of the most used natural health products for good reason, it does so many beneficial things. It relaxes tight muscles, calms nerves, widens blood vessels and reduces inflammation just to name a few. From a physiological perspective, it is one of the key lynch pins of your cellular energy production so it is no surprise it has so many applications. To learn more about why [magnesium is such a common deficiency click here.](https://drnibber.com/q-a-why-is-magnesium-such-a-common-deficiency/)
 
 Being a practitioner that uses magnesium with most of my patients I wanted to clarify a few, very important, points that recently have come to my attention regarding magnesium products and the increasing amount of elemental magnesium. Below is a summary of the different forms of magnesium and the % of magnesium in each form.

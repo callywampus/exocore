@@ -6,6 +6,8 @@ DHA, as an unsaturated(n-3) fatty acid, undergoes lipid peroxidation upon metabo
 
 if light and heat degrade dha why cook it? what happens to a pi electron cloud under sun exposure?  
 
+DHA and arachidonic acid increase the excitatory effect of glutamate on its receptor (Yeh, et aI., 1995), and decrease the uptake of glutamate by the protein that binds it to stop the excitatory process (Yu, et aI., 1986). These fats cause swelling of mitochondria and cells, and increase vascular permeability. Saturated fats don't have those excitatory effects. [[the-gaba-system-defenses-and-tissue-renewal.pdf]]
+
 ## Pro:
 
 DHA specifically is special, and different than other n-3 fatty acids. because it has 22 carbons in it and those 22 carbons are all double-bonded. It means they have a π electron cloud, and fx to store more electrons. These electrons, upon exposure to sunlight, become excited and activate the photoelectric effect, creating a DC current that energizes and protects the brain. That's why DHA is very important for the brain. Brain lacking DHA = less electrons. Less electrons = mitochondria swell to increase capacity. Less fx mitochondria = cell die. 

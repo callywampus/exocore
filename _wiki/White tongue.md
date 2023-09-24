@@ -27,6 +27,6 @@ More intensive treatment includes the antifungal Nystatin.
 
 ## Internal Tissues
 
-Sometimes, white tongue that cannot be scraped off and doesn’t go away after using local antifungal treatments is the result of deeper gut issues.
+Sometimes, white tongue that cannot be scraped off and/or doesn’t go away after using local antifungal treatments is the result of deeper gut issues.
 
 "Local bacteria are usually involved in the white tongue, but typically the problem is mainly in the intestine. I have experimented with the old-fashioned "intestinal disinfectant" camphoric acid (it used to be a common pharmaceutical, 80 to 100 years ago), and when I would swallow about 100 to 200 mg of it in the evening, I would wake up with a perfectly clean tongue, not a bit of the white. Bamboo shoots, raw carrot, and flowers of sulfur are other antiseptics that can reduce the white tongue." -Ray Peat e-mail exchange

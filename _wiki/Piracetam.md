@@ -1,0 +1,5 @@
+# Piracetam
+Piracetam (like other GABAergic agents) very effectively decreases lipid peroxidation (Novikov, et aI., 1996), despite increasing metabolic activity. While decreasing oxidative damage and increasing ATP production, it also lowers the activity of the cells' important antioxidant enzymes (Keil, et aI., 2006). When a cell isn't being damaged, those adaptive enzymes aren't required to be so active. (Many publications argue that certain products are "beneficial because they increase the antioxidant enzymes," but in fact almost any kind of injury will increase those protective enzymes.) 
+If mitochondria aren't damaged, for example in healthy young animals, piracetam doesn't greatly increase their activity. It simply restores them when they are damaged.
+
+[[the-gaba-system-defenses-and-tissue-renewal.pdf]]

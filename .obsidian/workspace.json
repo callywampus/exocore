@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "a4adada377eea724",
+        "id": "823c2c20d5f0d96e",
         "type": "tabs",
         "children": [
           {
-            "id": "8d768fb121db4dce",
+            "id": "a7f4f5ade86d6df1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_wiki/Famotidine.md",
+                "file": "_zettles/sīþian and Scythian.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "4db83c866bb817d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_zettles/all-purpose herbal antipathogen mixture.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -64,6 +77,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "6e872c7a4f84e549",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -85,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_wiki/Famotidine.md",
+                "file": "_zettles/all-purpose herbal antipathogen mixture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_wiki/Famotidine.md",
+                "file": "_zettles/all-purpose herbal antipathogen mixture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_wiki/Famotidine.md"
+                "file": "_zettles/all-purpose herbal antipathogen mixture.md"
               }
             }
           },
@@ -155,44 +176,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8d768fb121db4dce",
+  "active": "4db83c866bb817d3",
   "lastOpenFiles": [
-    "_wiki/White tongue.md",
-    "_zettles/Voltage-Gated Calcium Channels (VGCCs).md",
-    "_zettles/Cryptocurrency.md",
-    "_wiki/Rhodiola rosea.md",
-    "_wiki/Famotidine.md",
-    "_zettles/Baking Soda.md",
-    "library/kuhn-as-empiricist.pdf",
-    "library/Unconfirmed 566036.crdownload",
-    "_zettles/EMF Research Dump.md",
-    "_wiki/6-ketoprogesterone (6-keto P4).md",
-    "_articles/Cookware.md",
-    "library/Review-on-Toxicity-of-Stainless-Steel.pdf",
-    "library/84322713.pdf",
-    "_zettles/Excipients.md",
-    "_zettles/Metaphysics + Cosmology.md",
-    "_zettles/beat driving.md",
-    "_zettles/Blood test.md",
-    "_zettles/Chicken necks for thyroid.md",
-    "_zettles/Cypro.md",
-    "_zettles/Deuterium.md",
-    "_zettles/Nutrition.md",
-    "_zettles/The DHA Question™.md",
-    "library/Psychopathia_Sexualis_1000006945.pdf",
-    "library/Unconfirmed 242445.crdownload",
-    "library/Havas-response-to-evaluation-of-stetzer-filters.pdf",
-    "library/Unconfirmed 183841.crdownload",
+    "_zettles/SIBO Research Dump.md",
+    "library/Legacies_of_Paul_de_Man_----_Part_II_Reading_History.pdf",
+    "library/johan_huizinga_homo_ludens_1949_pdf_17266.pdf",
+    "library/Treatment of Distal Ulcerative Colitis with Lidocaine.pdf",
+    "library/Utopian-Plagiarism-Hypertextuality-and-Electronic-Cultural-Production.pdf",
+    "library/The-Vitruvian-Man-of-Leonardo-da-Vinci-as-a-Representation-of-an-Operational-Approach-to-Knowledge.pdf",
+    "ring.md",
+    "library/Methylphenidate.md",
+    "_zettles/Anabolics change the Microbiota and Reduces Symptoms of Gastrointestinal Disease?.md",
     "_zettles/anti stress tools.md",
-    "_zettles/Pollen.md",
+    "_articles/novel net art thesis.md",
+    "_zettles/sīþian and Scythian.md",
+    "Untitled.md",
+    "_zettles/Longform.md",
+    "_articles/novel net art thesis — singlemother.eth.md",
+    "_zettles/High HDL.md",
+    "_zettles/Untitled 1.md",
+    "_wiki/methylene blue.md",
+    "_zettles/EMF Research Dump.md",
+    "_wiki/Piracetam.md",
+    "library/CIA-RDP79B00752A000300070001-8.pdf",
+    "library/Unconfirmed 446333.crdownload",
+    "_zettles/toe socks.md",
+    "_zettles/Stress + EMF = Allergy.md",
+    "_wiki/Famotidine.md",
+    "_zettles/Cypro.md",
+    "_zettles/Samadhi.md",
     "_zettles/Progesterone and Erections.md",
+    "_zettles/Rhodiola rosea.md",
+    "_zettles/Pollen.md",
     "_zettles/Peaty macros.md",
-    "_journal/Stress + EMF = Allergy.md",
-    "_zettles/B vitamins.md",
-    "_zettles/Art.md",
-    "_zettles/Archive Network.md",
-    "library/ 6-Ketoprogesterone and its biological actions.pdf",
-    "library/Unconfirmed 929785.crdownload",
+    "_zettles/Lost History.md",
+    "library/SunGuide.ms.en.pdf",
+    "library/Unconfirmed 390786.crdownload",
+    "library/SunGuide.pdf",
     "assets/imgs/hormone_cascade.png",
     "Untitled.canvas"
   ]
