@@ -1,0 +1,2 @@
+# tocopherol stress
+a human study looking at the effects of genetic polymorphisms on the effects of alpha tocopherol in 160 male volunteers evaluated polymorphisms in 15 pathways involved in inflammation or response to oxidative stress after exposure of peripheral blood mononuclear cells to lipopolysaccharides [40]. The authors found that the ability of alpha tocopherol to influence production of cytokines TNF _α_, IL _β_-6, and -10 was influenced by polymorphisms in GSTP 1 313 and genes encoding for TNF_α_ and IL10 [40].

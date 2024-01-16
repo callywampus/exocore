@@ -1,0 +1,11 @@
+---
+published: true
+subtitle:
+date: 2024-01-13
+tags: 
+---
+
+# Lactoferrin
+[The Effect of Holder Pasteurization on Nutrients and Biologically-Active Components in Donor Human Milk: A Review](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4997390/)
+
+Lactoferrin is an iron-binding protein that reduces the availability of the free iron required by iron-dependent pathogens, and therefore is able to inhibit their growth. Moreover, it can disrupt the bacterial cell membrane by binding to the lipid-A portion of lipopolysaccharides on the bacterial cell surface [[63](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4997390/#B63-nutrients-08-00477)]. Lactoferrin has been investigated in several studies, using different techniques (ELISA, RIA, monospecific antisera) [[24](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4997390/#B24-nutrients-08-00477),[29](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4997390/#B29-nutrients-08-00477),[30](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4997390/#B30-nutrients-08-00477),[31](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4997390/#B31-nutrients-08-00477),[32](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4997390/#B32-nutrients-08-00477)], all of which report a reduction in its concentration, with a percentage ranging from 35% to 90%, but the reduction was only reported as significant by Christen et al. [[35](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4997390/#B35-nutrients-08-00477)]. Additionally, a reduction in the lactoferrin-containing band, by means of a protein electrophoresis semi-quantitative method, was reported [[33](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4997390/#B33-nutrients-08-00477)]. Since the bactericidal activity of lactoferrin is maintained by bactericidal peptides that form during its digestion, it is possible that part of the activity is still retained in pasteurized HM despite reduction of the protein [[62](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4997390/#B62-nutrients-08-00477)]. One recent survey [[64](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4997390/#B64-nutrients-08-00477)] conducted by means of non-reducing protein electrophoresis, has reported that lactoferrin aggregation, rather than degradation, occurs following DM pasteurization with HoP. Whether this aggregation causes a decrease in lactoferrin bactericidal activity, is still not known.

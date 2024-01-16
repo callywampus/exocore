@@ -9,9 +9,7 @@ In the intestinal tract, there is a natural mixture of several species of lactob
 
 The Rosell Institute produces and freeze-dries various species of lactobacilli, bifidobacteria, and lactic streptococci. They work with nutritionists, doctors, and distributors of health products to provide them with the specific mixtures of lactic bacteria they need for their purposes.
 
-Lactobacillus bacteria do produce lactic acid as a byproduct of their metabolic processes. Lactic acid is not inherently bad and is actually a natural component of many fermented foods, including yogurt. In moderate amounts, lactic acid can have beneficial effects on the body, such as promoting a healthy gut environment and aiding in digestion.
-
-However, excessive consumption of lactic acid, especially in the form of fermented foods or supplements, can have potential drawbacks. The liver plays a role in converting lactic acid back into glucose, which requires energy and can deplete blood sugar reserves. Additionally, chronic exposure to lactic acid can stimulate collagen production and contribute to inflammation and aging.
+Lactobacillus bacteria do produce lactic acid as a byproduct of their metabolic processes. Excessive consumption of lactic acid, especially in the form of fermented foods or supplements, can have potential drawbacks. The liver plays a role in converting lactic acid back into glucose, which requires energy and can deplete blood sugar reserves. Additionally, chronic exposure to lactic acid can stimulate collagen production and contribute to inflammation and aging.
 
 Lactic acid-stimulated collagen production can contribute to inflammation and aging through several mechanisms.
 
@@ -22,3 +20,7 @@ Secondly, lactic acid can promote inflammation. Inflammatory processes are often
 Additionally, lactic acid-induced collagen production can create a positive feedback loop. As collagen accumulates, it can lead to tissue stiffness and increased mechanical tension. This mechanical stress can activate signaling pathways that further stimulate collagen synthesis. This cycle of increased collagen production and tissue stiffness can perpetuate inflammation and accelerate the aging process.
 
 In summary, lactic acid-stimulated collagen production can contribute to inflammation and aging by promoting tissue fibrosis, activating immune cells, and creating a positive feedback loop of collagen synthesis and tissue remodeling.
+
+via PeatBot
+
+lactobillicus involved with production of serotonin + acetylcholine

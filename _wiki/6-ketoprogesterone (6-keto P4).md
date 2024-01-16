@@ -26,10 +26,9 @@ Q: "Hi ray, i was wondering if i could get your thoughts on this compound. Haidu
 
 The phrasing being inconsistent with the way Ray writes has lead to some skepticism as to whether this is a legitimate email from Ray or a faked quote to bash haidut. For the sake of providing multiple perspectives I am including it.
 
-Since this chemical likely opposes cortisol, in a stressful situation if the body cannot mount a cortisol response it may compensate with adrenaline. Some are stacking 6-keto P4 with Pansterone in approximately a 2:1 ratio to account for this. 6-keto, being a progestogen, may compete with progesterone and T for access to the 5-AR enzyme and when used on its own to result in lower DHT or allopregnanolone levels, another reason to stack. I have personally not observed a need for this but it is worth mentioning.
+Since this chemical likely opposes cortisol, in a stressful situation if the body cannot mount a cortisol response some speculate it may compensate with adrenaline. Some are stacking 6-keto P4 with Pansterone in approximately a 2:1 ratio to account for this. 6-keto, being a progestogen, may compete with progesterone and T for access to the 5-AR enzyme and when used on its own to result in lower DHT or allopregnanolone levels, another reason to stack. I have personally not observed a need for this but it is worth mentioning.
 
 Anecdotal reports suggest high doses of 6-keto P4 can cause joint ache from lowering cortisol too much.
 
 1. https://raypeatforum.com/community/threads/6-keto-p4-liquid-6-ketoprogesterone-for-lab-r-d.24968/
-
 2. https://web.archive.org/web/20180115150450/http://mindandmuscle.net/articles/comparing-6-keto-anabolics-like-laxogenin/

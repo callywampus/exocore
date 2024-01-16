@@ -4,35 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "823c2c20d5f0d96e",
+        "id": "32affa6a146096ad",
         "type": "tabs",
         "children": [
           {
-            "id": "a7f4f5ade86d6df1",
+            "id": "d0487fe9674ad0a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_zettles/sīþian and Scythian.md",
+                "file": "_wiki/L. reuteri.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "4db83c866bb817d3",
+            "id": "27907d0de81344da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_zettles/all-purpose herbal antipathogen mixture.md",
+                "file": "_wiki/Bile.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "d51353e4edbf5dd1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_wiki/SIBO.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_zettles/all-purpose herbal antipathogen mixture.md",
+                "file": "_wiki/SIBO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_zettles/all-purpose herbal antipathogen mixture.md",
+                "file": "_wiki/SIBO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_zettles/all-purpose herbal antipathogen mixture.md"
+                "file": "_wiki/SIBO.md"
               }
             }
           },
@@ -158,7 +170,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -176,44 +189,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4db83c866bb817d3",
+  "active": "d51353e4edbf5dd1",
   "lastOpenFiles": [
-    "_zettles/SIBO Research Dump.md",
-    "library/Legacies_of_Paul_de_Man_----_Part_II_Reading_History.pdf",
-    "library/johan_huizinga_homo_ludens_1949_pdf_17266.pdf",
-    "library/Treatment of Distal Ulcerative Colitis with Lidocaine.pdf",
-    "library/Utopian-Plagiarism-Hypertextuality-and-Electronic-Cultural-Production.pdf",
-    "library/The-Vitruvian-Man-of-Leonardo-da-Vinci-as-a-Representation-of-an-Operational-Approach-to-Knowledge.pdf",
-    "ring.md",
-    "library/Methylphenidate.md",
-    "_zettles/Anabolics change the Microbiota and Reduces Symptoms of Gastrointestinal Disease?.md",
-    "_zettles/anti stress tools.md",
-    "_articles/novel net art thesis.md",
-    "_zettles/sīþian and Scythian.md",
-    "Untitled.md",
-    "_zettles/Longform.md",
-    "_articles/novel net art thesis — singlemother.eth.md",
+    "_wiki/Bile.md",
+    "_wiki/Sulfur Metabolism Theory of SIBO.md",
+    "_wiki/Amino Acids.md",
+    "_wiki/B6.md",
+    "_wiki/B2 Riboflavin.md",
+    "_wiki/B1 Thiamine.md",
+    "_wiki/SIBO.md",
+    "_wiki/Lactate.md",
+    "_wiki/Lipopolysaccharides.md",
+    "images/bile acid metabolism.png",
+    "_wiki/NAFLD.md",
+    "_wiki/L. reuteri.md",
+    "_wiki/Molybdenum Research Dump.md",
+    "_wiki/B3 Niacinamide.md",
+    "_wiki/Vit A.md",
+    "_wiki/Vit C.md",
+    "images/Vit C Complex.png",
+    "_wiki/1553c6.md",
+    "images/GD0lVdxWkAIhU4X.png",
+    "_zettles/Vit C and Iron.md",
+    "_wiki/Mold Research Dump.md",
+    "_wiki/TNF.md",
+    "_wiki/Sulfur.md",
+    "images/methanogen antimicrobial table.jpg",
+    "_wiki/Methylation.md",
+    "_wiki/Tetracycline.md",
+    "images/bacterial gas flowchart.jpg",
+    "images/download.jpg",
+    "_wiki/Methylene Blue.md",
+    "_wiki/Magnesium.md",
+    "_zettles/Dixie.md",
     "_zettles/High HDL.md",
-    "_zettles/Untitled 1.md",
-    "_wiki/methylene blue.md",
-    "_zettles/EMF Research Dump.md",
-    "_wiki/Piracetam.md",
-    "library/CIA-RDP79B00752A000300070001-8.pdf",
-    "library/Unconfirmed 446333.crdownload",
-    "_zettles/toe socks.md",
-    "_zettles/Stress + EMF = Allergy.md",
-    "_wiki/Famotidine.md",
-    "_zettles/Cypro.md",
-    "_zettles/Samadhi.md",
-    "_zettles/Progesterone and Erections.md",
-    "_zettles/Rhodiola rosea.md",
-    "_zettles/Pollen.md",
-    "_zettles/Peaty macros.md",
-    "_zettles/Lost History.md",
-    "library/SunGuide.ms.en.pdf",
-    "library/Unconfirmed 390786.crdownload",
-    "library/SunGuide.pdf",
-    "assets/imgs/hormone_cascade.png",
-    "Untitled.canvas"
+    "library/SCD Legal Illegal List.pdf",
+    "images/SIBO Fruit & Vegetable Guide.jpg",
+    "images/Table2ibs.jpg",
+    "images/SIBO treatment protocol.png",
+    "images/Sibo-Figure-3-355-6.png",
+    "_wiki/Untitled",
+    "library/inorganic sulfur and sulfate activation.pdf",
+    "library/progesterone_endotoxin.pdf",
+    "library/p4.pdf",
+    "library/griffith1987.pdf",
+    "Untitled.canvas",
+    "library/the-mercury-detoxification-manual-a-guide-to-mercury-chelation.pdf",
+    "library/bicarbonates-therapy.pdf",
+    "library/Unconfirmed 429068.crdownload",
+    "library/The Cure For All Diseases_Hulda Clarke.pdf"
   ]
 }

@@ -8,6 +8,8 @@ if light and heat degrade dha why cook it? what happens to a pi electron cloud u
 
 DHA and arachidonic acid increase the excitatory effect of glutamate on its receptor (Yeh, et aI., 1995), and decrease the uptake of glutamate by the protein that binds it to stop the excitatory process (Yu, et aI., 1986). These fats cause swelling of mitochondria and cells, and increase vascular permeability. Saturated fats don't have those excitatory effects. [[the-gaba-system-defenses-and-tissue-renewal.pdf]]
 
+DHA can be recycled, it's present in eggs fish and milk, no need to go out of your way to DHAmaxx
+
 ## Pro:
 
 DHA specifically is special, and different than other n-3 fatty acids. because it has 22 carbons in it and those 22 carbons are all double-bonded. It means they have a π electron cloud, and fx to store more electrons. These electrons, upon exposure to sunlight, become excited and activate the photoelectric effect, creating a DC current that energizes and protects the brain. That's why DHA is very important for the brain. Brain lacking DHA = less electrons. Less electrons = mitochondria swell to increase capacity. Less fx mitochondria = cell die. 
@@ -35,4 +37,4 @@ These cannabinoids have also been shown to modulate these channels directly by p
 
 In addition to the affects described above, an excessive DHA to AA ratio is also capable of inducing apoptosis through multiple mechanisms, including translocation of phosphatidylserine15, elevated BAX and CASP3 activity16 resulting from disruption of mitochondrial transmembrane potential17, and activation of PPARs via the p38 signaling pathway.18 With limited neuronal growth / repair and endocannabinoid deficits, calcium-induced oxidative stress can perpetuate neuroinflammation leading to further non-enzymatic oxidation of DHA. This produces extremely reactive neuroketals and additional toxic metabolites19, creating a potential demyelinating cascade. With increased demyelination and intracellular calcium, electromagnetic fields are capable of producing acute responses in the central and peripheral nervous systems characterized by the standard EHS symptomotology.
 
-https://transcendgenomics.com/high-seafood-diets-cause-ehs/ 
+via https://transcendgenomics.com/high-seafood-diets-cause-ehs/ 

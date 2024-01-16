@@ -1,0 +1,1 @@
+rising levels of acetyl-CoA has an inhibitory effects on pyruvate dehydrogenase (PDH)

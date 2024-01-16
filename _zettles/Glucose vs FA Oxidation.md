@@ -1,0 +1,3 @@
+It has been estimated that the rate of ATP generation based on carbohydrate oxidation is in the range of 0.51-0.68 mmol /s /kg body mass vs the rate of ATP generation based on triacylglycerol fueling is approximately 2-3 lower (0.24 mmol /s /kg body mass)
+
+[Schönfeld P, Reiser G. Why does brain metabolism not favor burning of fatty acids to provide energy? Reflections on disadvantages of the use of free fatty acids as fuel for brain. J Cereb Blood Flow Metab. 2013 Oct;33(10):1493-9. doi: 10.1038/jcbfm.2013.128. Epub 2013 Aug 7. PMID: 23921897; PMCID: PMC3790936.](https://pubmed.ncbi.nlm.nih.gov/23921897/)

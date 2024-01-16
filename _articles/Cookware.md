@@ -16,7 +16,7 @@ The remainder of this entry is lifted from the comments section of gnowfglins.co
   
 Here is a very pertinent survey conducted by the government of Finland in 2010:  
   
-[http://www.ttl.fi/en/publications/elect ... _steel.pdf](http://www.ttl.fi/en/publications/electronic_publications/documents/stainless_steel.pdf)  
+https://www.julkari.fi/bitstream/handle/10024/134863/Review%20on%20toxicity%20of%20stainless%20steel.pdf?sequence=1
   
 The study, titled “Review on Toxicity of Stainless Steel” is 87 pages long, with several dense pages of references at the end. For each potential area of concern with stainless affecting human health in every situations, the findings of numerous scientific studies are assessed and evaluated in light of EU guidelines for toxic material exposure. Whether or not you put any stock in the EU guidelines, the amounts and types of material which are found to transfer from stainless to food are interesting to think about.  
   
@@ -33,3 +33,9 @@ Exceptions are with the first few uses of new pots, and with some types of welds
 Many surgical implants and medical devices are made from 316L. This is because it is among the least reactive materials with biological systems that can be produced and worked at a reasonable cost.  
   
 To me, knowing that my food itself contains 10x the amount of what is coming off my pot makes me feel quite comfortable with the safety of my 304 stainless.
+
+# In vitro effects of macrophages on orthopaedic implant alloys and local release of metallic alloy components
+
+AIMS: This study aimed to determine if macrophages can attach and directly affect the oxide layers of 316L stainless steel, titanium alloy (Ti6Al4V), and cobalt-chromium-**molybdenum** alloy (CoCr**Mo**) by releasing components of these alloys. METHODS: Murine peritoneal macrophages were cultured and placed on stainless steel, CoCr**Mo**, and Ti6Al4V discs into a 96-well plate. Cells were activated with interferon gamma and lipopolysaccharide. Macrophages on stainless steel discs produced significantly more nitric oxide (NO) compared to their control counterparts after eight to ten days and remained elevated for the duration of the experiment. RESULTS: On stainless steel, both nonactivated and activated cell groups were shown to have a significant increase in metal ion release for Cr, Fe, and Ni (p < 0.001, p = 0.002, and p = 0.020 respectively) compared with medium only and showed macrophage-sized corrosive pits on the stainless steel surface. On titanium alloy discs there was a significant increase in aluminum (p < 0.001) among all groups compared with medium only. CONCLUSION: These results indicated that macrophages were able to attach to and affect the oxide surface of stainless steel and titanium alloy discs. Cite this article: Bone Joint J 2020;102-B(7 Supple B):116-121.
+
+_G. Heise, C. M. Black, R. Smith, B. R. **Mo**rrow, and W. M. Mihalko,In vitro effects of macrophages on orthopaedic implant alloys and local release of metallic alloy components, The bone & joint journal, 2020, 102-b, 116-121_.

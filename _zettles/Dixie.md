@@ -1,0 +1,4 @@
+# Dixie
+"For every Southern boy fourteen years old, not once but whenever he wants it, there is the instant when it’s still not yet two o’clock on that July afternoon in 1863, the brigades are in position behind the rail fence, the guns are laid and ready in the woods and the furled flags are already loosened to break out and Pickett himself with his long oiled ringlets and his hat in one hand probably and his sword in the other looking up the hill waiting for Long-street to give the word and it’s all in the balance, it hasn’t happened yet, it hasn’t even begun yet…"
+
+William Faulkner, “Intruder in the Dust”

@@ -1,0 +1,1 @@
+High T low DHT = muscular w/ femenine behavior 

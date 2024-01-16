@@ -1,0 +1,10 @@
+---
+published: true
+subtitle:
+date: 2024-01-09
+tags: 
+---
+
+# Reactive Oxygen Species
+[Xanthine Oxidase: Isolation, Assays of Activity, and Inhibition](https://www.hindawi.com/journals/jchem/2015/294858/)
+>Reactive oxygen species (ROS) such as hydrogen peroxide, superoxide radical anion, hydroxyl radical, alkylperoxyl radical, nitric oxide, and singlet oxygen are often associated with some physiopathological states in human. Oxidative stress, caused by an imbalance between antioxidant systems and the production of oxidants, including ROS, is considered to contribute to a wide variety of degenerative processes and diseases such as atherosclerosis, Parkinson’s disease, Alzheimer’s dementia, and reperfusion injury of brain or heart [1, 2] and also can be associated with the pathogenesis of various conditions such as aging, arthritis, cancer, and inflammation [2, 3]. ROS are generated inside the human body as a consequence of the exposure to a multitude of exogenous chemicals in our ambient environment like during UV light irradiation and by X-rays and gamma rays or produced during metal catalyzed reactions [4] and/or a number of endogenous metabolic processes involving redox enzymes and bioenergetics electron transfer [5]. Endogenous factors leading to formation of ROS can be neutrophils and macrophages during inflammation or byproducts of mitochondrial catalyzed electron transport reactions and various other mechanisms [6]. Endogenous sources of ROS include mitochondria, cytochrome P450 metabolism, peroxisomes, and inflammatory cell activation [7], so as other cellular sources of superoxide radicals present such as the enzyme xanthine oxidase, which catalyzes the reaction of hypoxanthine to xanthine and xanthine to uric acid. In both steps, molecular oxygen is reduced, forming the superoxide anion followed by the generation of hydrogen peroxide [8].

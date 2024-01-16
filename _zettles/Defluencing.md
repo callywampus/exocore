@@ -1,0 +1,1 @@
+Defluencing is not the dialectical contrary of influencing; is is that originary nothingness of intent by which influence is made possible whatsoever. 
